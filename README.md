@@ -1,4 +1,6 @@
-# MyAwesomePhD
+# awesomePhD
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 These are all the resources I wish I knew when starting my PhD. Since then, I have discovered a multitude of helpful research-related tools, for early career as well as more sensior academics (or non-academics, for that matter). The original tweet can be found [here](https://twitter.com/helenahhartmann/status/1473735195920633859).
 
