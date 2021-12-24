@@ -1,14 +1,13 @@
 # awesome-PhD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of carefully selected tools and resources you can use in your career. These are all things I wish I knew when starting my PhD, since they make your life SO MUCH easier. These tools are both for early career as well as more senior researchers (or even if you are not in academia, for that matter).
+A curated list of carefully selected tools and resources you can use in your career. These are all things I wish I knew when starting my PhD, since they make your life SO MUCH easier. These tools are both for early career as well as more senior researchers (or even if you are not in academia, for that matter). The original Twitter thread where I started this list can be found [here](https://twitter.com/helenahhartmann/status/1473735195920633859).
 
-The original Twitter thread where I started this list can be found [here](https://twitter.com/helenahhartmann/status/1473735195920633859).
-
-This repository is aimed to be a living, constantly developing resource where everybody can contribute with new resources! If you want to contribute, please read the contribution guidelines first, then send a pull request or contact me [on Twitter](https://twitter.com/helenahhartmann).
+This repository is aimed to be a living, constantly developing resource where everybody can contribute with new resources! If you want to contribute, please read the contribution guidelines below first, then send a pull request or contact me [on Twitter](https://twitter.com/helenahhartmann) in case of any questions.
 
 Other (awesome) lists on this topic:
-- https://github.com/alirezasamar/awesome-phd
-- https://twitter.com/lei_zhang_lz/status/1474174707788304387?s=20
+- The only other [GitHub awesome list](https://github.com/alirezasamar/awesome-phd) I found on this topic by [Alireza Samar](https://github.com/alirezasamar).
+- [Resources for Postdocs](https://twitter.com/lei_zhang_lz/status/1474174707788304387?s=20) by [Lei Zhang](https://twitter.com/lei_zhang_lz).
+- [Doctoral Student Cheat Sheet](https://www.prof2prof.com/resource/doctoral-student-cheat-sheet) by [Justin Harty](https://twitter.com/JustinSHarty).
 
 ## Want to contribute?
 
@@ -21,7 +20,7 @@ Before you submit a contribution via a pull request, please read the following g
 5) Each entry should roughly follow the same format: ```[TITLE OF RESOURCE](Link to resource): Short description of what the resource is and does.```
 6) Check your spelling before submitting the pull request!
 
-## List of resources (sorted alphabetically in categories)
+## List of resources (sorted alphabetically in sub-categories)
 
 ### Crediting
 
@@ -33,8 +32,8 @@ Before you submit a contribution via a pull request, please read the following g
 
 - [CONNECTED PAPERS](https://www.connectedpapers.com/): To explore connections between published papers (e.g., for a literature review), use Connected Papers. This is also nice to see the reach of your own research! It is a "unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work".
 - [LITERATURE EXCEL SHEET](https://twitter.com/SteMcQuilliam/status/1252241904810557448?s=20): No literature review will ever be the same again, if you use this tutorial to organize all your literature in Excel.
-- [RESEARCHRABBIT](https://www.researchrabbit.ai/): Use ResearchRabbit to find both germinal and future works from a single (or multiple) works.
 - [LITMAPS](https://www.litmaps.co/): Ana all-rounder tool for visual research navigation, citation network search, and team synchronization.
+- [RESEARCHRABBIT](https://www.researchrabbit.ai/): Use ResearchRabbit to find both germinal and future works from a single (or multiple) works.
 
 ### Miscellaneous
 
@@ -51,11 +50,11 @@ Before you submit a contribution via a pull request, please read the following g
 
 ### Publication
 
+- [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html), curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
 - [JOURNAL-AUTHOR-NAME-ESTIMATOR](jane.biosemantics.org): If you don’t know who to suggest as a reviewer or what journal to submit your paper to, check out JANE.
-- [JOURNAL RATER](https://phdvoice.org/journalrater/): If you want to know about the review process and manuscript handling, check out the Journal Rater by [@PhDVoice](https://twitter.com/PhDVoice). Because “life’s too short to put up with reviewer 2’s”.
+- [JOURNAL RATER](https://phdvoice.org/journalrater/): If you want to know about the review process and manuscript handling, check out the Journal Rater by [PhD Voice](https://twitter.com/PhDVoice). Because “life’s too short to put up with reviewer 2’s”.
 - [SHERPA ROMEO](v2.sherpa.ac.uk/romeo/): If you are not sure whether you are allowed to upload a preprint prior to journal submission.
 - [UNPAYWALL](unpaywall.org): As an alternative to SciHub, consider Unpaywall.
-- [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html), curated by [AleLazic](https://twitter.com/AleLazic).
 
 ### Statistics
 
@@ -67,5 +66,5 @@ Before you submit a contribution via a pull request, please read the following g
 
 ### Writing
 
+- [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
 - [RECITEWORKS](): To check your in-text citations and reference lists for errors, use [Reciteworks](www.reciteworks.com).
-- [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [@NicolasFNL](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
