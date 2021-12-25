@@ -9,18 +9,7 @@ Other (awesome) lists on this topic:
 - [Resources for Postdocs](https://twitter.com/lei_zhang_lz/status/1474174707788304387?s=20) by [Lei Zhang](https://twitter.com/lei_zhang_lz).
 - [Doctoral Student Cheat Sheet](https://www.prof2prof.com/resource/doctoral-student-cheat-sheet) by [Justin Harty](https://twitter.com/JustinSHarty).
 
-## Want to contribute?
-
-Before you submit a contribution via a pull request, please read the following guidelines first.
-
-1) Is the tool you are suggesting in fact really awesome, tried and tested and therefore worthy to be included in this list?
-2) Please submit a separate pull request for each suggestion, that makes my life so much easier!
-3) Think about what category your suggestion belongs into or suggest a new one, if it doesn't exist.
-4) Name your suggestion with a useful title 
-5) Each entry should roughly follow the same format: ```[TITLE OF RESOURCE](Link to resource): Short description of what the resource is and does.```
-6) Check your spelling before submitting the pull request!
-
-## List of resources (sorted alphabetically in sub-categories)
+## List of resources (sorted alphabetically into sub-categories)
 
 ### Crediting
 
@@ -32,8 +21,8 @@ Before you submit a contribution via a pull request, please read the following g
 
 - [CONNECTED PAPERS](https://www.connectedpapers.com/): To explore connections between published papers (e.g., for a literature review), use Connected Papers. This is also nice to see the reach of your own research! It is a "unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work".
 - [LITERATURE EXCEL SHEET](https://twitter.com/SteMcQuilliam/status/1252241904810557448?s=20): No literature review will ever be the same again, if you use this tutorial to organize all your literature in Excel.
-- [LITMAPS](https://www.litmaps.co/): Ana all-rounder tool for visual research navigation, citation network search, and team synchronization.
-- [RESEARCHRABBIT](https://www.researchrabbit.ai/): Use ResearchRabbit to find both germinal and future works from a single (or multiple) works.
+- [LITMAPS](https://www.litmaps.co/): An all-rounder tool for visual research navigation, citation network search, and team synchronization.
+- [RESEARCH RABBIT](https://www.researchrabbit.ai/): Use Research Rabbit to find both germinal and future works from a single (or multiple) works.
 
 ### Miscellaneous
 
@@ -68,3 +57,14 @@ Before you submit a contribution via a pull request, please read the following g
 
 - [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
 - [RECITEWORKS](): To check your in-text citations and reference lists for errors, use [Reciteworks](www.reciteworks.com).
+
+## Want to contribute?
+
+Before you submit a contribution via a pull request, please read the following guidelines first.
+
+1) Is the tool you are suggesting in fact really awesome, tried and tested and therefore worthy to be included in this list?
+2) Please submit a separate pull request for each suggestion, that makes my life so much easier!
+3) Think about what category your suggestion belongs into or suggest a new one, if it doesn't exist.
+4) Name your suggestion with a useful title 
+5) Each entry should roughly follow the same format: ```[TITLE OF RESOURCE](Link to resource): Short description of what the resource is and does.```
+6) Check your spelling before submitting the pull request!
