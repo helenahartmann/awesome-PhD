@@ -4,13 +4,35 @@ A curated list of carefully selected tools and resources I wish I knew when star
 
 This repository is aimed to be a living, constantly developing resource where everybody can contribute with new resources! If you want to contribute, please read the contribution guidelines [here](https://github.com/helenahartmann/awesome-PhD/blob/main/contributing_guidelines.md) first, then send a pull request or contact me [on Twitter](https://twitter.com/helenahhartmann) in case of any questions.
 
-Other (awesome) lists on this topic:
+## Table of Contents
+
+<!-- MarkdownTOC depth=4 -->
+
+- [Other awesome lists on this topic](#other-awesome-lists-on-this-topic)
+- [List of resources](#list-of-resources)
+    - [Crediting](#crediting)
+    - [Literature](#literature)
+    - [Miscellaneous](#miscellaneous)
+    - [Organization](#organization)
+    - [Presentation](#presentation)
+    - [Publication](#publication)
+    - [References](#references)
+    - [Statistics](#statistics)
+    - [Website](#website)
+    - [Writing](#writing)
+- [Special thanks for contributions to this list](#special-thanks-for-contributions-to-this-list)
+
+<!-- /MarkdownTOC -->
+
+## Other (awesome) lists on this topic
 - [awesome-phd](https://github.com/alirezasamar/awesome-phd) by [Alireza Samar](https://github.com/alirezasamar).
 - [Doctoral Student Cheat Sheet](https://www.prof2prof.com/resource/doctoral-student-cheat-sheet) by [Justin Harty](https://twitter.com/JustinSHarty).
 - [Resources for Postdocs](https://twitter.com/lei_zhang_lz/status/1474174707788304387?s=20) by [Lei Zhang](https://twitter.com/lei_zhang_lz).
 - [PhD Resources](https://gdalle.github.io/phd-resources/) by [Guillaume Dalle](https://twitter.com/giomdal)
 
-## List of resources (sorted alphabetically into sub-categories)
+## List of resources 
+
+Sorted alphabetically into sub-categories.
 
 ### Crediting
 
@@ -72,6 +94,6 @@ Other (awesome) lists on this topic:
 
 ---
 
-## Special thanks for contributions
+## Special thanks for contributions to this list
 - [Lei Zhang](https://github.com/lei-zhang/)
 - [#AcademicTwitter](https://twitter.com/search?q=%23AcademicTwitter&src=typeahead_click)
