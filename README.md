@@ -13,6 +13,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Crediting](#crediting)
     - [Literature](#literature)
     - [Miscellaneous](#miscellaneous)
+    - [Neuroscience](#neuroscience)
     - [Organization](#organization)
     - [Presentation](#presentation)
     - [Publication](#publication)
@@ -42,6 +43,7 @@ Sorted alphabetically into sub-categories.
 
 ### Literature
 
+- [CODA](https://cooperationdatabank.org/): Use Coda, a machine-readable history of cooperation research, to search, select and visualize studies for on-demand meta-analysis.
 - [CONNECTED PAPERS](https://www.connectedpapers.com/): To explore connections between published papers (e.g., for a literature review), use Connected Papers. This is also nice to see the reach of your own research! It is a "unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work".
 - [LITERATURE EXCEL SHEET](https://twitter.com/SteMcQuilliam/status/1252241904810557448?s=20): No literature review will ever be the same again, if you use this tutorial to organize all your literature in Excel.
 - [LITMAPS](https://www.litmaps.co/): An all-rounder tool for visual research navigation, citation network search, and team synchronization.
@@ -50,7 +52,17 @@ Sorted alphabetically into sub-categories.
 
 ### Miscellaneous
 
+- [DATA HORROR ESCAPE ROOM](https://sites.google.com/vu.nl/datahorror/home): Solve cool puzzles together and learn more about all the horrors data has to offer.
+- [OPEN SCIENCE ESCAPE ROOM](https://norment.github.io/ecrm20_escaperoom/): Want to playfully learn about open science? Check out this fun online escape room.
 - [SEMANTIC SCALE NETWORK](rosenbusch.shinyapps.io/semantic_net/): If you want to create a new scale but are not sure whether it exists already, check the Semantic Scale Network to detect semantically related (psychological) scales. You can also add your own scales in there to extend the database.
+
+### Neuroscience
+
+- [3D BRAIN](https://www.instructables.com/3D-print-your-own-brain/): Do you have an anatomical scan of your brain and access to a 3D-printer? Follow this easy tutorial to print your own brain.
+- [DICOMTAGS](https://exiftool.org/TagNames/DICOM.html): Do you want to know where a specific information is saved in the DICOM file of your imaging data. Check out DICOM Tags.
+- [EDUCORTEX](https://paulscotti.github.io/educortex/): This handy educational, browser-based visualization tool allows you to enter any functional or anatomical term and visualize the parts of the brain that are most associated with that term. Check the [GitHub repository](https://github.com/PaulScotti/educortex) or corresponding [paper](https://jose.theoj.org/papers/10.21105/jose.00075).
+- [NEUROQUERY](https://neuroquery.org/): NeuroQuery is a tool for meta-analysis of neuroimaging studies, relating text queries to activations as well as associations between terms used together in neuroimaging publications. More info in the corresponding [paper](https://elifesciences.org/articles/53385). 
+- [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
 
 ### Organization
 
@@ -59,7 +71,10 @@ Sorted alphabetically into sub-categories.
 
 ### Presentation
 
+- [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
 - [CANVA](www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
+- [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
+- [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free): Font Awesome has loads of free icons to choose from to use in presentations, posters, etc.
 - [MIRO](https://miro.com/): You can use Miro for creating visual presentations of anything, and most of all, for collaboration with others! The possibilities are endless.
 
 ### Publication
