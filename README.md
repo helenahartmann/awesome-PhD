@@ -15,6 +15,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Miscellaneous](#miscellaneous)
     - [Neuroscience](#neuroscience)
     - [Organization](#organization)
+    - [Podcasts](#podcasts)
     - [Presentation](#presentation)
     - [Publication](#publication)
     - [References](#references)
@@ -68,6 +69,16 @@ Sorted alphabetically into sub-categories.
 
 - [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your PhD mess in one place.
 - [TRELLO](https://trello.com/): Trello helps you stay organized and work together with others by letting you create lists about anything you want.
+
+### Podcasts
+
+- [ACROSS THE AGES](https://anchor.fm/acrosstheages): An English podcast delving "into the history of a chosen subject, spanning from way back when, all the way up to some time ago".
+- [BRAINFLICKS](https://brainflicks.podigee.io/): A German podcast about psychology in movies.
+- [DEAR GRAD STUDENT](https://www.deargradstudent.com/): An English podcast "to celebrate, commiserate, and support one another through grad school".
+- [EVERYTHING HERTZ](https://everythinghertz.com/): An English podcast about methodology and scientific life.
+- [HONEST ACADEMIA](https://anchor.fm/honest-academia): An English podcast from two grad students discussing navigating academia.
+- [PLANTHROPOLOGY](https://www.planthropologypod.com/): An English podcast "about humans who love plants & why you should love plants too".
+- [SCIENCE SHEROES](https://sciencesheroes.letscast.fm/): A German podcast about women and non-binary people in science.
 
 ### Presentation
 
