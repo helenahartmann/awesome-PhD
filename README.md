@@ -8,18 +8,18 @@ This repository is aimed to be a living, constantly developing resource where ev
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Other awesome lists on this topic](#other-awesome-lists-on-this-topic)
+- [Other (awesome) lists on this topic](#other-awesome-lists-on-this-topic)
 - [List of resources](#list-of-resources)
+    - [Analysis](#analysis)
     - [Crediting](#crediting)
     - [Literature](#literature)
     - [Miscellaneous](#miscellaneous)
     - [Neuroscience](#neuroscience)
     - [Organization](#organization)
     - [Podcasts](#podcasts)
-    - [Presentation](#presentation)
     - [Publication](#publication)
     - [References](#references)
-    - [Statistics](#statistics)
+    - [Visualization](#visualization)
     - [Website](#website)
     - [Writing](#writing)
 - [Special thanks for contributions to this list](#special-thanks-for-contributions-to-this-list)
@@ -36,6 +36,11 @@ This repository is aimed to be a living, constantly developing resource where ev
 
 Sorted alphabetically into sub-categories.
 
+### Analysis
+
+- [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
+- [STATCHECK](www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
+
 ### Crediting
 
 - [CITATION DIVERSITY STATEMENT](https://pubmed.ncbi.nlm.nih.gov/32762966/): To increase awareness about citation bias and mitigate it, by checking for and transparently reporting proportions of citing male and female first and last authors, use the citation diversity statement by Zurn et al. (2020, TICS).
@@ -47,6 +52,7 @@ Sorted alphabetically into sub-categories.
 - [CODA](https://cooperationdatabank.org/): Use Coda, a machine-readable history of cooperation research, to search, select and visualize studies for on-demand meta-analysis.
 - [CONNECTED PAPERS](https://www.connectedpapers.com/): To explore connections between published papers (e.g., for a literature review), use Connected Papers. This is also nice to see the reach of your own research! It is a "unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work".
 - [LITERATURE EXCEL SHEET](https://twitter.com/SteMcQuilliam/status/1252241904810557448?s=20): No literature review will ever be the same again, if you use this tutorial to organize all your literature in Excel.
+- [LITERATURE TRACKER](https://scribehow.com/shared/How_to_create_a_literature_tracker_in_Airtable__Fo0LgLIfR76M3BcazOR9-g?utm_campaign=thoughtsofaphd&utm_source=twitter&utm_medium=organic): Have a look at this useful tutorial to keep your literature organized.
 - [LITMAPS](https://www.litmaps.co/): An all-rounder tool for visual research navigation, citation network search, and team synchronization.
 - [RESEARCH RABBIT](https://www.researchrabbit.ai/): Use Research Rabbit to find both germinal and future works from a single (or multiple) works.
 - [SCHOLARCY](https://www.scholarcy.com/): Want an AI to summarize literature for you? Wait no more, Scholarcy comes to the rescue.
@@ -67,7 +73,7 @@ Sorted alphabetically into sub-categories.
 
 ### Organization
 
-- [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your PhD mess in one place.
+- [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your (PhD) note-taking mess in one place.
 - [TRELLO](https://trello.com/): Trello helps you stay organized and work together with others by letting you create lists about anything you want.
 
 ### Podcasts
@@ -80,17 +86,10 @@ Sorted alphabetically into sub-categories.
 - [PLANTHROPOLOGY](https://www.planthropologypod.com/): An English podcast "about humans who love plants & why you should love plants too".
 - [SCIENCE SHEROES](https://sciencesheroes.letscast.fm/): A German podcast about women and non-binary people in science.
 
-### Presentation
-
-- [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
-- [CANVA](www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
-- [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
-- [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free): Font Awesome has loads of free icons to choose from to use in presentations, posters, etc.
-- [MIRO](https://miro.com/): You can use Miro for creating visual presentations of anything, and most of all, for collaboration with others! The possibilities are endless.
-
 ### Publication
 
 - [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html), curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
+- [EDITOR](https://twitter.com/DrBreaky/status/1273842646377566214?s=20): Have a look at this Twitter thread by [Michael Breakspear](https://twitter.com/DrBreaky) on his experience as a scientific editor.
 - [JOURNAL-AUTHOR-NAME-ESTIMATOR](jane.biosemantics.org): If you don’t know who to suggest as a reviewer or what journal to submit your paper to, check out JANE.
 - [JOURNAL RATER](https://phdvoice.org/journalrater/): If you want to know about the review process and manuscript handling, check out the Journal Rater by [PhD Voice](https://twitter.com/PhDVoice). Because “life’s too short to put up with reviewer 2’s”.
 - [ORCID](https://orcid.org/): Get an ORCID - an "Open Researcher and Contributor ID" which is a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. Link your projects and output to your ORCID.
@@ -101,12 +100,19 @@ Sorted alphabetically into sub-categories.
 
 ### References
 
+- [GRATEFUL](https://github.com/Pakillo/grateful): Use the grateful package in R to automatically create a reference list for all your used R packages.
 - [RECITEWORKS](www.reciteworks.com): To check your in-text citations and reference lists for errors, use Reciteworks.
 - [REFERENCE MANAGEMENT COMPARISON](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software): If you are not sure which reference manager to use, check this handy comparison of all the different ones available and whether they will work on your operating system. 
 
-### Statistics
+### Visualization
 
-- [STATCHECK](www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
+- [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
+- [CANVA](www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
+- [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
+- [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free): Font Awesome has loads of free icons to choose from to use in presentations, posters, etc.
+- [GANTTRIFY](https://github.com/giocomai/ganttrify): Check out this handy tool to create Gantt charts in R. 
+- [MIRO](https://miro.com/): You can use Miro for creating visual presentations of anything, and most of all, for collaboration with others! The possibilities are endless.
+- [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
 
 ### Website
 
@@ -116,6 +122,7 @@ Sorted alphabetically into sub-categories.
 
 - [ACRONYMIFY](https://acronymify.com/): If you need a cool and catchy acronym for your paper, project, etc. check out Acronymify.
 - [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
+- [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
 - [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
 
 ---
