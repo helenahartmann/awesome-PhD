@@ -40,6 +40,7 @@ Sorted alphabetically into sub-categories.
 
 - [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
 - [STATCHECK](www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
+- [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
 
 ### Crediting
 
@@ -124,6 +125,7 @@ Sorted alphabetically into sub-categories.
 - [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
 - [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
 - [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
+- [PAPAJA](http://frederikaust.com/papaja_man/introduction.html): If you want to create reproducible manuscripts including tables directly from your data in R, use the papaja package.
 
 ---
 
