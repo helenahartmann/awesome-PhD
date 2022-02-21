@@ -15,12 +15,12 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Literature](#literature)
     - [Miscellaneous](#miscellaneous)
     - [Neuroscience](#neuroscience)
+    - [Online presence](#online-presence)
     - [Organization](#organization)
     - [Podcasts](#podcasts)
     - [Publication](#publication)
     - [References](#references)
     - [Visualization](#visualization)
-    - [Website](#website)
     - [Writing](#writing)
 - [Special thanks for contributions to this list](#special-thanks-for-contributions-to-this-list)
 
@@ -38,9 +38,9 @@ Sorted alphabetically into sub-categories.
 
 ### Analysis
 
+- [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
 - [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
 - [STATCHECK](www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
-- [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
 
 ### Crediting
 
@@ -60,6 +60,7 @@ Sorted alphabetically into sub-categories.
 
 ### Miscellaneous
 
+- [COLOR CONVERTER](https://www.farb-tabelle.de/en/rgb2hex.htm?q=gray20): If you need to find out the code for a certain color, check this handy converter.
 - [DATA HORROR ESCAPE ROOM](https://sites.google.com/vu.nl/datahorror/home): Solve cool puzzles together and learn more about all the horrors data has to offer.
 - [OPEN SCIENCE ESCAPE ROOM](https://norment.github.io/ecrm20_escaperoom/): Want to playfully learn about open science? Check out this fun online escape room.
 - [SEMANTIC SCALE NETWORK](rosenbusch.shinyapps.io/semantic_net/): If you want to create a new scale but are not sure whether it exists already, check the Semantic Scale Network to detect semantically related (psychological) scales. You can also add your own scales in there to extend the database.
@@ -71,6 +72,11 @@ Sorted alphabetically into sub-categories.
 - [EDUCORTEX](https://paulscotti.github.io/educortex/): This handy educational, browser-based visualization tool allows you to enter any functional or anatomical term and visualize the parts of the brain that are most associated with that term. Check the [GitHub repository](https://github.com/PaulScotti/educortex) or corresponding [paper](https://jose.theoj.org/papers/10.21105/jose.00075).
 - [NEUROQUERY](https://neuroquery.org/): NeuroQuery is a tool for meta-analysis of neuroimaging studies, relating text queries to activations as well as associations between terms used together in neuroimaging publications. More info in the corresponding [paper](https://elifesciences.org/articles/53385). 
 - [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
+
+### Online Presence
+
+- [TWITTER FOR SCIENTISTS](https://t4scientists.com/): A handy guide on how to start off on Twitter if you're a scientist.
+- [WOWCHEMY WEBSITE](https://twitter.com/dsquintana/status/1310715433654382599?s=20): If you want to create your own website, but have no clue where to start, check out [Daniel Quintana](https://twitter.com/dsquintana)'s extremely easy tutorial! Also have a look at [my website](www.helenahartmann.com) for an example.
 
 ### Organization
 
@@ -115,17 +121,13 @@ Sorted alphabetically into sub-categories.
 - [MIRO](https://miro.com/): You can use Miro for creating visual presentations of anything, and most of all, for collaboration with others! The possibilities are endless.
 - [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
 
-### Website
-
-- [WOWCHEMY WEBSITE](https://twitter.com/dsquintana/status/1310715433654382599?s=20): If you want to create your own website, but have no clue where to start, check out [Daniel Quintana](https://twitter.com/dsquintana)'s extremely easy tutorial! Also have a look at [my website](www.helenahartmann.com) for an example.
-
 ### Writing
 
 - [ACRONYMIFY](https://acronymify.com/): If you need a cool and catchy acronym for your paper, project, etc. check out Acronymify.
 - [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
+- [PAPAJA](http://frederikaust.com/papaja_man/introduction.html): If you want to create reproducible manuscripts including tables directly from your data in R, use the papaja package.
 - [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
 - [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
-- [PAPAJA](http://frederikaust.com/papaja_man/introduction.html): If you want to create reproducible manuscripts including tables directly from your data in R, use the papaja package.
 
 ---
 
