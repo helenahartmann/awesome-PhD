@@ -12,6 +12,8 @@ This repository is aimed to be a living, constantly developing resource where ev
 - [List of resources](#list-of-resources)
     - [Analysis](#analysis)
     - [Crediting](#crediting)
+    - [Design](#design)
+    - [Events](#events)
     - [Literature](#literature)
     - [Miscellaneous](#miscellaneous)
     - [Neuroscience](#neuroscience)
@@ -48,6 +50,17 @@ Sorted alphabetically into sub-categories.
 - [CREDIT AUTHOR STATEMENT](https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement): Use the CRedit Author Statement by Brandt et al. (2015, Learned Publishing) to report each author’s proper contribution to a manuscript.
 - [TENZING](https://rollercoaster.shinyapps.io/tenzing/): Use the Tenzing ShinyApp for quickly and easily documenting contributorship.
 
+### Design
+
+- [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/). If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
+- [KAPODI STIMULI DATABASE](https://airtable.com/shrnVoUZrwu6riP9b/tbljKUnVvikhzaNvF/viwlo7OvlHBG2q88P?blocks=hide). A huge database of every emotional stimuli you can think of and may want to use in your experiments.
+
+### Events
+
+- [OPEN RESEARCH CALENDAR](https://openresearchcalendar.org/calendar/): Keep up with all events related to open scholarship with this handy calendar. You can also follow them on Twitter [here](https://twitter.com/OpenResearchCal).
+- [RIOT SCIENCE CLUB](http://riotscience.co.uk/): The RIOT Science Club is organizing amazing events related to open scholarship. Also visit their [Youtube channel](https://www.youtube.com/c/RIOTScienceClub) for all the recorded talks.
+- [REPRODUCIBILITEA](https://reproducibilitea.org/): Want to discuss the latest papers related to open scholarship? Have a look whether there already is a Reproducibilitea journal club at your institution, and if not, create one of your own!
+
 ### Literature
 
 - [CODA](https://cooperationdatabank.org/): Use Coda, a machine-readable history of cooperation research, to search, select and visualize studies for on-demand meta-analysis.
@@ -70,6 +83,7 @@ Sorted alphabetically into sub-categories.
 - [3D BRAIN](https://www.instructables.com/3D-print-your-own-brain/): Do you have an anatomical scan of your brain and access to a 3D-printer? Follow this easy tutorial to print your own brain.
 - [DICOMTAGS](https://exiftool.org/TagNames/DICOM.html): Do you want to know where a specific information is saved in the DICOM file of your imaging data. Check out DICOM Tags.
 - [EDUCORTEX](https://paulscotti.github.io/educortex/): This handy educational, browser-based visualization tool allows you to enter any functional or anatomical term and visualize the parts of the brain that are most associated with that term. Check the [GitHub repository](https://github.com/PaulScotti/educortex) or corresponding [paper](https://jose.theoj.org/papers/10.21105/jose.00075).
+- [FMRI COURSE](https://ucl.podia.com/designing-and-analysing-fmri-experiments): Learn how to design and analyze fMRI experiments in this free course.
 - [NEUROQUERY](https://neuroquery.org/): NeuroQuery is a tool for meta-analysis of neuroimaging studies, relating text queries to activations as well as associations between terms used together in neuroimaging publications. More info in the corresponding [paper](https://elifesciences.org/articles/53385). 
 - [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
 
@@ -80,7 +94,7 @@ Sorted alphabetically into sub-categories.
 
 ### Organization
 
-- [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your (PhD) note-taking mess in one place.
+- [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your (PhD) note-taking mess in one place. If you want to save Tweets and Threads automatically to Notion, use [this](https://twitter.com/SaveToNotion/status/1462012037568073728?s=20&t=KLSbjBQ3HEL1LYlqklKRzA) tutorial.
 - [TRELLO](https://trello.com/): Trello helps you stay organized and work together with others by letting you create lists about anything you want.
 
 ### Podcasts
@@ -107,6 +121,7 @@ Sorted alphabetically into sub-categories.
 
 ### References
 
+- [CITING R PACKAGES](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html#add-all-items-to-the-bibliography): [Here}](https://twitter.com/ed_hagen/status/1379919849686589447?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) and [here](https://twitter.com/ElenLeFoll/status/1501567477427458055?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) are some handy tutorials on how to cite all your used R packages in an RMarkdown document at once. If you want to generate R package citations, look [here](https://bookdown.org/yihui/rmarkdown-cookbook/write-bib.html).
 - [GRATEFUL](https://github.com/Pakillo/grateful): Use the grateful package in R to automatically create a reference list for all your used R packages.
 - [RECITEWORKS](www.reciteworks.com): To check your in-text citations and reference lists for errors, use Reciteworks.
 - [REFERENCE MANAGEMENT COMPARISON](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software): If you are not sure which reference manager to use, check this handy comparison of all the different ones available and whether they will work on your operating system. 
