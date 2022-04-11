@@ -90,7 +90,7 @@ Sorted alphabetically into sub-categories.
 ### Online Presence
 
 - [TWITTER FOR SCIENTISTS](https://t4scientists.com/): A handy guide on how to start off on Twitter if you're a scientist.
-- [WOWCHEMY WEBSITE](https://twitter.com/dsquintana/status/1310715433654382599?s=20): If you want to create your own website, but have no clue where to start, check out [Daniel Quintana](https://twitter.com/dsquintana)'s extremely easy tutorial! Also have a look at [my website](www.helenahartmann.com) for an example.
+- [WOWCHEMY WEBSITE](https://twitter.com/dsquintana/status/1310715433654382599?s=20): If you want to create your own website, but have no clue where to start, check out [Daniel Quintana](https://twitter.com/dsquintana)'s extremely easy tutorial! Also have a look at [my website](https://helenahartmann.com/) for an example.
 
 ### Organization
 
