@@ -12,6 +12,7 @@ This repository is aimed to be a living, constantly developing resource where ev
 - [List of resources](#list-of-resources)
     - [Analysis](#analysis)
     - [Crediting](#crediting)
+    - [Data](#data)
     - [Design](#design)
     - [Events](#events)
     - [Experiments](#experiments)
