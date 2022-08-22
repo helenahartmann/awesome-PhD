@@ -14,7 +14,11 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Crediting](#crediting)
     - [Design](#design)
     - [Events](#events)
+    - [Experiments](#experiments)
+    - [Inclusion](#inclusion)
+    - [Infographics](#infographics)
     - [Literature](#literature)
+    - [Meta-analyses](#meta-analyses)
     - [Miscellaneous](#miscellaneous)
     - [Neuroscience](#neuroscience)
     - [Online presence](#online-presence)
@@ -22,6 +26,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Podcasts](#podcasts)
     - [Publication](#publication)
     - [References](#references)
+    - [Reproducibility](#reproducibility)
     - [Visualization](#visualization)
     - [Writing](#writing)
 - [Special thanks for contributions to this list](#special-thanks-for-contributions-to-this-list)
@@ -31,8 +36,8 @@ This repository is aimed to be a living, constantly developing resource where ev
 ## Other (awesome) lists on this topic
 - [awesome-phd](https://github.com/alirezasamar/awesome-phd) by [Alireza Samar](https://github.com/alirezasamar).
 - [Doctoral Student Cheat Sheet](https://www.prof2prof.com/resource/doctoral-student-cheat-sheet) by [Justin Harty](https://twitter.com/JustinSHarty).
-- [Resources for Postdocs](https://twitter.com/lei_zhang_lz/status/1474174707788304387?s=20) by [Lei Zhang](https://twitter.com/lei_zhang_lz).
 - [PhD Resources](https://gdalle.github.io/phd-resources/) by [Guillaume Dalle](https://twitter.com/giomdal)
+- [Resources for Postdocs](https://twitter.com/lei_zhang_lz/status/1474174707788304387?s=20) by [Lei Zhang](https://twitter.com/lei_zhang_lz).
 
 ## List of resources 
 
@@ -40,6 +45,7 @@ Sorted alphabetically into sub-categories.
 
 ### Analysis
 
+- [DATAPASTA](https://github.com/MilesMcBain/datapasta): This R package is "about reducing resistance associated with copying and pasting data to and from R". Copy data from Excel and paste it into R as a dataframe or tibble. 
 - [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
 - [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
 - [STATCHECK](www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
@@ -50,26 +56,56 @@ Sorted alphabetically into sub-categories.
 - [CREDIT AUTHOR STATEMENT](https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement): Use the CRedit Author Statement by Brandt et al. (2015, Learned Publishing) to report each author’s proper contribution to a manuscript.
 - [TENZING](https://rollercoaster.shinyapps.io/tenzing/): Use the Tenzing ShinyApp for quickly and easily documenting contributorship.
 
+### Data
+
+- [24 DAYS OF DATABASES](https://twitter.com/fier_caitlin/status/1333731512676651008?s=20): Somebody on twitter was gracious enough to summarize some cool datasets that you can work on.
+- [POPANE DATASET](https://osf.io/94bpx/): A large database on the psychophysiology of positive and negative emotions. "This database involves recording of 1157 healthy participants, collected across seven studies, a continuous recordof self-reported affect along with several biosignals (electrocardiogram, impedance cardiogram, electrodermal activity, hemodynamic measures, e.g., blood pressure), respiration trace, and skin temperature. [The authors] experimentally elicited a wide range of positive and negative emotions, including amusement, anger, disgust, excitement, fear, gratitude, sadness, tenderness, and threat".
+
 ### Design
 
-- [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/). If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
 - [KAPODI STIMULI DATABASE](https://airtable.com/shrnVoUZrwu6riP9b/tbljKUnVvikhzaNvF/viwlo7OvlHBG2q88P?blocks=hide). A huge database of every emotional stimuli you can think of and may want to use in your experiments.
+- [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/). If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
 
 ### Events
 
 - [OPEN RESEARCH CALENDAR](https://openresearchcalendar.org/calendar/): Keep up with all events related to open scholarship with this handy calendar. You can also follow them on Twitter [here](https://twitter.com/OpenResearchCal).
-- [RIOT SCIENCE CLUB](http://riotscience.co.uk/): The RIOT Science Club is organizing amazing events related to open scholarship. Also visit their [Youtube channel](https://www.youtube.com/c/RIOTScienceClub) for all the recorded talks.
 - [REPRODUCIBILITEA](https://reproducibilitea.org/): Want to discuss the latest papers related to open scholarship? Have a look whether there already is a Reproducibilitea journal club at your institution, and if not, create one of your own!
+- [RIOT SCIENCE CLUB](http://riotscience.co.uk/): The RIOT Science Club is organizing amazing events related to open scholarship. Also visit their [Youtube channel](https://www.youtube.com/c/RIOTScienceClub) for all the recorded talks.
+
+### Experiments
+
+- [EMBODY/EMFACE](https://www.psychologie.uni-freiburg.de/abteilungen/psychobio/tests): This is a 2022 published tool to measure how good people can recognize emotions in the body or face.
+- [FULL BODY STIMULI](https://www.paulconnorpsych.com/stimuli): Need some full-body stimuli in your experiments? Look no further.
+
+### Inclusion
+
+- [COLS4ALL](https://github.com/mtennekes/cols4all): An R package "for selecting color palettes. 'Color for all' refers to [the authors'] mission that colors should be usable for not just people with normal color vision, but also for people with color vision deficiency". 
+- [EQUITY COMPASS](https://www.futurelearn.com/courses/equity-informal-stem-learning-using-the-equity-compass): A great free online course called "Equity in Informal STEM Learning: Using the Equity Compass" on how to be more inclusive.
+
+### Infographics and Cheatsheets
+
+- [CHOOSE YOUR PLOT](https://www.linkedin.com/posts/opensourcecommunity_data-datastorytelling-datascience-activity-6879744977417592832-9y4J): No idea how to best plot your data? Have a look at this image.
+- [ETYMOLOGY OF THE BRAIN](https://twitter.com/etymology_nerd/status/1515312745125584896?s=20): Want to know how some parts of the brain got their names? Check out this cool image.
+- [JUPYTER NOTEBOOK CHEATSHEET](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
+- [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/)
 
 ### Literature
 
 - [CODA](https://cooperationdatabank.org/): Use Coda, a machine-readable history of cooperation research, to search, select and visualize studies for on-demand meta-analysis.
 - [CONNECTED PAPERS](https://www.connectedpapers.com/): To explore connections between published papers (e.g., for a literature review), use Connected Papers. This is also nice to see the reach of your own research! It is a "unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work".
+- [COVIDENCE](https://www.covidence.org/): This paid tool is well worth its money, because it helps you screen and decide on hundreds of papers if you're working on  a systematic review.
+- [ELICIT](https://elicit.org/): Elicit is your AI research assistant that "uses language models to help you automate research workflows", by finding "relevant papers without perfect keyword match", summarizing "takeaways from the paper specific to your question", and extracting relevant information.
 - [LITERATURE EXCEL SHEET](https://twitter.com/SteMcQuilliam/status/1252241904810557448?s=20): No literature review will ever be the same again, if you use this tutorial to organize all your literature in Excel.
 - [LITERATURE TRACKER](https://scribehow.com/shared/How_to_create_a_literature_tracker_in_Airtable__Fo0LgLIfR76M3BcazOR9-g?utm_campaign=thoughtsofaphd&utm_source=twitter&utm_medium=organic): Have a look at this useful tutorial to keep your literature organized.
 - [LITMAPS](https://www.litmaps.co/): An all-rounder tool for visual research navigation, citation network search, and team synchronization.
 - [RESEARCH RABBIT](https://www.researchrabbit.ai/): Use Research Rabbit to find both germinal and future works from a single (or multiple) works.
 - [SCHOLARCY](https://www.scholarcy.com/): Want an AI to summarize literature for you? Wait no more, Scholarcy comes to the rescue.
+
+### Meta-analyses
+
+- [10 EASY STEPS](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3344936): A tutorial paper on "10 easy steps to conducting transparent, reproducible meta-analyses for infant researchers".
+- [METALAB](https://langcog.github.io/metalab/): This website features interactive, community-augmented meta-analysis tools for cognitive development research.
+- [TEMPLATES](https://psycnet.apa.org/record/2020-66880-001): A primer and tutorial paper on "Conducting a meta-analysis in the age of open science: Tools, tips, and practical recommendations", including nine templates free for use, from preregistration to code to data.
 
 ### Miscellaneous
 
@@ -126,15 +162,25 @@ Sorted alphabetically into sub-categories.
 - [RECITEWORKS](www.reciteworks.com): To check your in-text citations and reference lists for errors, use Reciteworks.
 - [REFERENCE MANAGEMENT COMPARISON](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software): If you are not sure which reference manager to use, check this handy comparison of all the different ones available and whether they will work on your operating system. 
 
+### Reproducibility
+
+- [NEUROIMAGING](https://www.youtube.com/playlist?list=PLpnRVYzBd9lwkkuepLTwkeKFQ9JAizs1s): A free online video-based workshop on how to conduct reproducible neuroimaging.
+- [WORKFLOW](https://www.youtube.com/watch?v=fwZqVvHaA0M): Make your whole workflow more reproducible with this great and free 2-hour workshop.
+
 ### Visualization
 
 - [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
+- [BIORENDER](https://biorender.com/): The all-in-one tool for research visualization in a free and paid verson. Visualize study designs and results, or even design whole posters using their tools and icons.
 - [CANVA](www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
 - [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
 - [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free): Font Awesome has loads of free icons to choose from to use in presentations, posters, etc.
-- [GANTTRIFY](https://github.com/giocomai/ganttrify): Check out this handy tool to create Gantt charts in R. 
+- [FSBRAIN](https://cran.r-project.org/web/packages/fsbrain/vignettes/fsbrain.html): This R package "helps visualize surface-based brain structure data for large groups of subjects with very little code" and "also supports the computation of simple brain morphometry measures".
+- [GANTTRIFY](https://github.com/giocomai/ganttrify): Check out this handy tool to create Gantt charts in R.
+- [GGHELP](https://rdrr.io/github/brandmaier/ggx/man/gghelp.html): An R package that "converts a natural language query into a 'ggplot2' command string". 
+- [GGPLOT TRICKS](https://twitter.com/data_question/status/1496130684729303045?s=20): Some tricks from the R people to level up your ggplot game.
 - [MIRO](https://miro.com/): You can use Miro for creating visual presentations of anything, and most of all, for collaboration with others! The possibilities are endless.
 - [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
+- [MAKE YOUR OWN SCATTERPLOT](https://drawdata.xyz/): This handy tool allows you to draw in scatterplot points and download a CSV file with the coordinates.
 
 ### Writing
 
