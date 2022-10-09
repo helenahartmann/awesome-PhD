@@ -55,6 +55,7 @@ Sorted alphabetically into sub-categories.
 ### Career
 
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
+- [PHD COMPETENCE MODEL](https://phdcompetencemodel.nl/): This is "a self-assessment tool to help PhD candidates more efficiently direct their time towards improving skills areas that are most needed for their own personal career development."
 
 ### Crediting
 
@@ -178,6 +179,7 @@ Sorted alphabetically into sub-categories.
 ### Visualization
 
 - [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
+- [BIOICONS](https://bioicons.com/): A free alternative to BioRender.
 - [BIORENDER](https://biorender.com/): The all-in-one tool for research visualization in a free and paid verson. Visualize study designs and results, or even design whole posters using their tools and icons.
 - [CANVA](www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
 - [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
