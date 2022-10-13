@@ -99,7 +99,6 @@ Sorted alphabetically into sub-categories.
 
 ### Literature
 
-- [BIBTEX](http://www.bibtex.org/): Bibliography & reference generator that works quite well with Rmd/Papaja.
 - [CODA](https://cooperationdatabank.org/): Use Coda, a machine-readable history of cooperation research, to search, select and visualize studies for on-demand meta-analysis.
 - [CONNECTED PAPERS](https://www.connectedpapers.com/): To explore connections between published papers (e.g., for a literature review), use Connected Papers. This is also nice to see the reach of your own research! It is a "unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work".
 - [COVIDENCE](https://www.covidence.org/): This paid tool is well worth its money, because it helps you screen and decide on hundreds of papers if you're working on  a systematic review.
@@ -167,6 +166,7 @@ Sorted alphabetically into sub-categories.
 
 ### References
 
+- [BIBTEX](http://www.bibtex.org/): Bibliography & reference generator that works quite well with Rmd/Papaja.
 - [CITING R PACKAGES](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html#add-all-items-to-the-bibliography): [Here}](https://twitter.com/ed_hagen/status/1379919849686589447?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) and [here](https://twitter.com/ElenLeFoll/status/1501567477427458055?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) are some handy tutorials on how to cite all your used R packages in an RMarkdown document at once. If you want to generate R package citations, look [here](https://bookdown.org/yihui/rmarkdown-cookbook/write-bib.html).
 - [GRATEFUL](https://github.com/Pakillo/grateful): Use the grateful package in R to automatically create a reference list for all your used R packages.
 - [RECITEWORKS](https://reciteworks.com/): To check your in-text citations and reference lists for errors, use Reciteworks.
