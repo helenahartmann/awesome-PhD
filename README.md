@@ -49,7 +49,6 @@ Sorted alphabetically into sub-categories.
 
 - [DATAPASTA](https://github.com/MilesMcBain/datapasta): This R package is "about reducing resistance associated with copying and pasting data to and from R". Copy data from Excel and paste it into R as a dataframe or tibble. 
 - [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
-- [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
 - [STATCHECK](www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
 
 ### Career
@@ -96,7 +95,7 @@ Sorted alphabetically into sub-categories.
 - [DOWNLOAD SCIENTIFIC PAPERS](https://twitter.com/AStrasser116/status/1576648460194807808?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Many roads lead to you being able to read a scientific paper...check your options in this handy flowchart.
 - [ETYMOLOGY OF THE BRAIN](https://twitter.com/etymology_nerd/status/1515312745125584896?s=20): Want to know how some parts of the brain got their names? Check out this cool image.
 - [JUPYTER NOTEBOOK CHEATSHEET](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
-- [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/)
+- [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
 
 ### Literature
 
