@@ -109,6 +109,7 @@ Sorted alphabetically into sub-categories.
 - [LITMAPS](https://www.litmaps.co/): An all-rounder tool for visual research navigation, citation network search, and team synchronization.
 - [RESEARCH RABBIT](https://www.researchrabbit.ai/): Use Research Rabbit to find both germinal and future works from a single (or multiple) works.
 - [SCHOLARCY](https://www.scholarcy.com/): Want an AI to summarize literature for you? Wait no more, Scholarcy comes to the rescue.
+- [SNOWBALL](https://github.com/shaunabanana/snowball): A tool that would find related articles with snowballing method.
 
 ### Meta-analyses
 
