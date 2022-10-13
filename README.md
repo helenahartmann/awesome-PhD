@@ -138,7 +138,7 @@ Sorted alphabetically into sub-categories.
 - [WOWCHEMY WEBSITE](https://twitter.com/dsquintana/status/1310715433654382599?s=20): If you want to create your own website, but have no clue where to start, check out [Daniel Quintana](https://twitter.com/dsquintana)'s extremely easy tutorial! Also have a look at [my website](https://helenahartmann.com/) for an example.
 
 ### Organization
-
+- [BRAINVERSE](https://github.com/ReproNim/brainverse): A neat, open-source, cross-platform tool for notetaking, experiment planning and a labbook tool.
 - [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your (PhD) note-taking mess in one place. If you want to save Tweets and Threads automatically to Notion, use [this](https://twitter.com/SaveToNotion/status/1462012037568073728?s=20&t=KLSbjBQ3HEL1LYlqklKRzA) tutorial.
 - [TRELLO](https://trello.com/): Trello helps you stay organized and work together with others by letting you create lists about anything you want.
 
