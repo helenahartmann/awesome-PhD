@@ -49,7 +49,7 @@ Sorted alphabetically into sub-categories.
 
 - [DATAPASTA](https://github.com/MilesMcBain/datapasta): This R package is "about reducing resistance associated with copying and pasting data to and from R". Copy data from Excel and paste it into R as a dataframe or tibble. 
 - [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
-- [STATCHECK](www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
+- [STATCHECK](https://www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
 
 ### Career
 
@@ -182,7 +182,7 @@ Sorted alphabetically into sub-categories.
 - [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
 - [BIOICONS](https://bioicons.com/): A free alternative to BioRender.
 - [BIORENDER](https://biorender.com/): The all-in-one tool for research visualization in a free and paid verson. Visualize study designs and results, or even design whole posters using their tools and icons.
-- [CANVA](www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
+- [CANVA](https://www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
 - [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
 - [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free): Font Awesome has loads of free icons to choose from to use in presentations, posters, etc.
 - [FSBRAIN](https://cran.r-project.org/web/packages/fsbrain/vignettes/fsbrain.html): This R package "helps visualize surface-based brain structure data for large groups of subjects with very little code" and "also supports the computation of simple brain morphometry measures".
