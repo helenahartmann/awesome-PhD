@@ -121,7 +121,7 @@ Sorted alphabetically into sub-categories.
 - [COLOR CONVERTER](https://www.farb-tabelle.de/en/rgb2hex.htm?q=gray20): If you need to find out the code for a certain color, check this handy converter.
 - [DATA HORROR ESCAPE ROOM](https://sites.google.com/vu.nl/datahorror/home): Solve cool puzzles together and learn more about all the horrors data has to offer.
 - [OPEN SCIENCE ESCAPE ROOM](https://norment.github.io/ecrm20_escaperoom/): Want to playfully learn about open science? Check out this fun online escape room.
-- [SEMANTIC SCALE NETWORK](rosenbusch.shinyapps.io/semantic_net/): If you want to create a new scale but are not sure whether it exists already, check the Semantic Scale Network to detect semantically related (psychological) scales. You can also add your own scales in there to extend the database.
+- [SEMANTIC SCALE NETWORK](https://rosenbusch.shinyapps.io/semantic_net/): If you want to create a new scale but are not sure whether it exists already, check the Semantic Scale Network to detect semantically related (psychological) scales. You can also add your own scales in there to extend the database.
 
 ### Neuroscience
 
@@ -156,18 +156,18 @@ Sorted alphabetically into sub-categories.
 
 - [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html), curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
 - [EDITOR](https://twitter.com/DrBreaky/status/1273842646377566214?s=20): Have a look at this Twitter thread by [Michael Breakspear](https://twitter.com/DrBreaky) on his experience as a scientific editor.
-- [JOURNAL-AUTHOR-NAME-ESTIMATOR](jane.biosemantics.org): If you don’t know who to suggest as a reviewer or what journal to submit your paper to, check out JANE.
+- [JOURNAL-AUTHOR-NAME-ESTIMATOR](https://jane.biosemantics.org/): If you don’t know who to suggest as a reviewer or what journal to submit your paper to, check out JANE.
 - [JOURNAL RATER](https://phdvoice.org/journalrater/): If you want to know about the review process and manuscript handling, check out the Journal Rater by [PhD Voice](https://twitter.com/PhDVoice). Because “life’s too short to put up with reviewer 2’s”.
 - [ORCID](https://orcid.org/): Get an ORCID - an "Open Researcher and Contributor ID" which is a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. Link your projects and output to your ORCID.
 - [PUBLONS](https://publons.com/about/home/): Use Publons to keep up with all your peer-reviews and publications - it can also be linked to your [ORCID](https://orcid.org/).
 - [SCIREV](https://scirev.org/): If you want to know how long the review process for a specific journal is, or people's experience with publishing there, check SciRev.
-- [SHERPA ROMEO](v2.sherpa.ac.uk/romeo/): If you are not sure whether you are allowed to upload a preprint prior to journal submission.
-- [UNPAYWALL](unpaywall.org): As an alternative to SciHub, consider Unpaywall.
+- [SHERPA ROMEO](https://v2.sherpa.ac.uk/romeo/): If you are not sure whether you are allowed to upload a preprint prior to journal submission.
+- [UNPAYWALL](https://unpaywall.org/): As an alternative to SciHub, consider Unpaywall.
 
 ### References
 
 - [BIBTEX](http://www.bibtex.org/): Bibliography & reference generator that works quite well with Rmd/Papaja.
-- [CITING R PACKAGES](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html#add-all-items-to-the-bibliography): [Here}](https://twitter.com/ed_hagen/status/1379919849686589447?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) and [here](https://twitter.com/ElenLeFoll/status/1501567477427458055?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) are some handy tutorials on how to cite all your used R packages in an RMarkdown document at once. If you want to generate R package citations, look [here](https://bookdown.org/yihui/rmarkdown-cookbook/write-bib.html).
+- [CITING R PACKAGES](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html#add-all-items-to-the-bibliography): [Here](https://twitter.com/ed_hagen/status/1379919849686589447?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) and [here](https://twitter.com/ElenLeFoll/status/1501567477427458055?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) are some handy tutorials on how to cite all your used R packages in an RMarkdown document at once. If you want to generate R package citations, look [here](https://bookdown.org/yihui/rmarkdown-cookbook/write-bib.html).
 - [GRATEFUL](https://github.com/Pakillo/grateful): Use the grateful package in R to automatically create a reference list for all your used R packages.
 - [RECITEWORKS](https://reciteworks.com/): To check your in-text citations and reference lists for errors, use Reciteworks.
 - [REFERENCE MANAGEMENT COMPARISON](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software): If you are not sure which reference manager to use, check this handy comparison of all the different ones available and whether they will work on your operating system. 
