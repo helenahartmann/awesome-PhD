@@ -22,6 +22,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Literature](#literature)
     - [Meta-analyses](#meta-analyses)
     - [Miscellaneous](#miscellaneous)
+    - [Networking](#Networking)
     - [Neuroscience](#neuroscience)
     - [Online presence](#online-presence)
     - [Organization](#organization)
@@ -37,6 +38,7 @@ This repository is aimed to be a living, constantly developing resource where ev
 
 ## Other (awesome) lists on this topic
 - [awesome-phd](https://github.com/alirezasamar/awesome-phd) by [Alireza Samar](https://github.com/alirezasamar).
+- [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students
 - [Doctoral Student Cheat Sheet](https://www.prof2prof.com/resource/doctoral-student-cheat-sheet) by [Justin Harty](https://twitter.com/JustinSHarty).
 - [PhD Resources](https://gdalle.github.io/phd-resources/) by [Guillaume Dalle](https://twitter.com/giomdal)
 - [Resources for Postdocs](https://twitter.com/lei_zhang_lz/status/1474174707788304387?s=20) by [Lei Zhang](https://twitter.com/lei_zhang_lz).
@@ -72,6 +74,7 @@ Sorted alphabetically into sub-categories.
 
 - [KAPODI STIMULI DATABASE](https://airtable.com/shrnVoUZrwu6riP9b/tbljKUnVvikhzaNvF/viwlo7OvlHBG2q88P?blocks=hide). A huge database of every emotional stimuli you can think of and may want to use in your experiments.
 - [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/). If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
+- [Color Oracle](https://colororacle.org/index.html) - A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
 
 ### Events
 
@@ -123,6 +126,10 @@ Sorted alphabetically into sub-categories.
 - [OPEN SCIENCE ESCAPE ROOM](https://norment.github.io/ecrm20_escaperoom/): Want to playfully learn about open science? Check out this fun online escape room.
 - [SEMANTIC SCALE NETWORK](https://rosenbusch.shinyapps.io/semantic_net/): If you want to create a new scale but are not sure whether it exists already, check the Semantic Scale Network to detect semantically related (psychological) scales. You can also add your own scales in there to extend the database.
 
+### Networking
+- [ACADEMICS ON MASTODON](https://github.com/nathanlesage/academics-on-mastodon) - A list of various lists consisting of academics on Mastodon and general guidance for academic use.
+- [TWITTER FOR SCIENTISTS](https://t4scientists.com/): A handy guide on how to start off on Twitter if you're a scientist.
+
 ### Neuroscience
 
 - [3D BRAIN](https://www.instructables.com/3D-print-your-own-brain/): Do you have an anatomical scan of your brain and access to a 3D-printer? Follow this easy tutorial to print your own brain.
@@ -133,8 +140,6 @@ Sorted alphabetically into sub-categories.
 - [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
 
 ### Online Presence
-
-- [TWITTER FOR SCIENTISTS](https://t4scientists.com/): A handy guide on how to start off on Twitter if you're a scientist.
 - [WOWCHEMY WEBSITE](https://twitter.com/dsquintana/status/1310715433654382599?s=20): If you want to create your own website, but have no clue where to start, check out [Daniel Quintana](https://twitter.com/dsquintana)'s extremely easy tutorial! Also have a look at [my website](https://helenahartmann.com/) for an example.
 
 ### Organization
