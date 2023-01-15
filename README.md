@@ -18,11 +18,11 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Events](#events)
     - [Experiments](#experiments)
     - [Inclusion](#inclusion)
-    - [Infographics](#infographics)
+    - [Infographics](#infographics-and-cheatsheets)
     - [Literature](#literature)
     - [Meta-analyses](#meta-analyses)
     - [Miscellaneous](#miscellaneous)
-    - [Networking](#Networking)
+    - [Networking](#networking)
     - [Neuroscience](#neuroscience)
     - [Online presence](#online-presence)
     - [Organization](#organization)
@@ -38,7 +38,7 @@ This repository is aimed to be a living, constantly developing resource where ev
 
 ## Other (awesome) lists on this topic
 - [awesome-phd](https://github.com/alirezasamar/awesome-phd) by [Alireza Samar](https://github.com/alirezasamar).
-- [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students
+- [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) by [Paul Liang](https://github.com/pliang279).
 - [Doctoral Student Cheat Sheet](https://www.prof2prof.com/resource/doctoral-student-cheat-sheet) by [Justin Harty](https://twitter.com/JustinSHarty).
 - [PhD Resources](https://gdalle.github.io/phd-resources/) by [Guillaume Dalle](https://twitter.com/giomdal)
 - [Resources for Postdocs](https://twitter.com/lei_zhang_lz/status/1474174707788304387?s=20) by [Lei Zhang](https://twitter.com/lei_zhang_lz).
@@ -72,9 +72,9 @@ Sorted alphabetically into sub-categories.
 
 ### Design
 
-- [KAPODI STIMULI DATABASE](https://airtable.com/shrnVoUZrwu6riP9b/tbljKUnVvikhzaNvF/viwlo7OvlHBG2q88P?blocks=hide). A huge database of every emotional stimuli you can think of and may want to use in your experiments.
-- [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/). If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
-- [Color Oracle](https://colororacle.org/index.html) - A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
+- [KAPODI STIMULI DATABASE](https://airtable.com/shrnVoUZrwu6riP9b/tbljKUnVvikhzaNvF/viwlo7OvlHBG2q88P?blocks=hide): A huge database of every emotional stimuli you can think of and may want to use in your experiments.
+- [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/): If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
+- [COLOR ORACLE](https://colororacle.org/index.html): A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
 
 ### Events
 
@@ -127,7 +127,8 @@ Sorted alphabetically into sub-categories.
 - [SEMANTIC SCALE NETWORK](https://rosenbusch.shinyapps.io/semantic_net/): If you want to create a new scale but are not sure whether it exists already, check the Semantic Scale Network to detect semantically related (psychological) scales. You can also add your own scales in there to extend the database.
 
 ### Networking
-- [ACADEMICS ON MASTODON](https://github.com/nathanlesage/academics-on-mastodon) - A list of various lists consisting of academics on Mastodon and general guidance for academic use.
+
+- [ACADEMICS ON MASTODON](https://github.com/nathanlesage/academics-on-mastodon): A list of various lists consisting of academics on Mastodon and general guidance for academic use.
 - [TWITTER FOR SCIENTISTS](https://t4scientists.com/): A handy guide on how to start off on Twitter if you're a scientist.
 
 ### Neuroscience
@@ -159,7 +160,7 @@ Sorted alphabetically into sub-categories.
 
 ### Publication
 
-- [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html), curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
+- [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
 - [EDITOR](https://twitter.com/DrBreaky/status/1273842646377566214?s=20): Have a look at this Twitter thread by [Michael Breakspear](https://twitter.com/DrBreaky) on his experience as a scientific editor.
 - [JOURNAL-AUTHOR-NAME-ESTIMATOR](https://jane.biosemantics.org/): If you don’t know who to suggest as a reviewer or what journal to submit your paper to, check out JANE.
 - [JOURNAL RATER](https://phdvoice.org/journalrater/): If you want to know about the review process and manuscript handling, check out the Journal Rater by [PhD Voice](https://twitter.com/PhDVoice). Because “life’s too short to put up with reviewer 2’s”.
