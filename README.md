@@ -97,6 +97,8 @@ Sorted alphabetically into sub-categories.
 - [CHOOSE YOUR PLOT](https://www.linkedin.com/posts/opensourcecommunity_data-datastorytelling-datascience-activity-6879744977417592832-9y4J): No idea how to best plot your data? Have a look at this image.
 - [DOWNLOAD SCIENTIFIC PAPERS](https://twitter.com/AStrasser116/status/1576648460194807808?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Many roads lead to you being able to read a scientific paper...check your options in this handy flowchart.
 - [ETYMOLOGY OF THE BRAIN](https://twitter.com/etymology_nerd/status/1515312745125584896?s=20): Want to know how some parts of the brain got their names? Check out this cool image.
+- [fNIRS CHEATSHEET](https://twitter.com/katharina_stute/status/1579119875082985472?t=ljO6m2u8XxfazCZLVhBbsg&s=19): A hitchhiker's guide to fNIRS data analysis for beginners.
+- [GITHUB CHEATSHEET](https://twitter.com/NikkiSiapno/status/1593882400983072769?t=iOvK_Nm0pe4DrpNL9C0njw&s=19): Confised by commit, stage, stash, fetch, etc. on GitHub? Here's the sheet for you.
 - [JUPYTER NOTEBOOK CHEATSHEET](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
 - [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
 
@@ -196,6 +198,7 @@ Sorted alphabetically into sub-categories.
 - [GGHELP](https://rdrr.io/github/brandmaier/ggx/man/gghelp.html): An R package that "converts a natural language query into a 'ggplot2' command string". 
 - [GGPLOT TRICKS](https://twitter.com/data_question/status/1496130684729303045?s=20): Some tricks from the R people to level up your ggplot game.
 - [MIRO](https://miro.com/): You can use Miro for creating visual presentations of anything, and most of all, for collaboration with others! The possibilities are endless.
+- [PHYLOPIC](phylopic.org): An open database of freely usable silhouettes of life forms.
 - [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
 - [MAKE YOUR OWN SCATTERPLOT](https://drawdata.xyz/): This handy tool allows you to draw in scatterplot points and download a CSV file with the coordinates.
 
