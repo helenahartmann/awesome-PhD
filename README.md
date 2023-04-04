@@ -206,6 +206,7 @@ Sorted alphabetically into sub-categories.
 
 - [ACRONYMIFY](https://acronymify.com/): If you need a cool and catchy acronym for your paper, project, etc. check out Acronymify.
 - [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
+- [LEADERSHIP LAB](https://youtu.be/vtIzMaLkCaM): If you want to know how to write effectively, watch this video.
 - [LIST OF ACRONYMS MAKER](https://listofacronyms.com/): Don't waste time collating a list or table of abbreviations manually. This tool does it for you.
 - [PAPAJA](http://frederikaust.com/papaja_man/introduction.html): If you want to create reproducible manuscripts including tables directly from your data in R, use the papaja package.
 - [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
