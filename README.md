@@ -30,6 +30,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Publication](#publication)
     - [References](#references)
     - [Reproducibility](#reproducibility)
+	- [Version control](#versioncontrol)
     - [Visualization](#visualization)
     - [Writing](#writing)
 - [Special thanks for contributions to this list](#special-thanks-for-contributions-to-this-list)
@@ -75,6 +76,7 @@ Sorted alphabetically into sub-categories.
 - [KAPODI STIMULI DATABASE](https://airtable.com/shrnVoUZrwu6riP9b/tbljKUnVvikhzaNvF/viwlo7OvlHBG2q88P?blocks=hide): A huge database of every emotional stimuli you can think of and may want to use in your experiments.
 - [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/): If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
 - [COLOR ORACLE](https://colororacle.org/index.html): A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
+- [Color picker](https://imagecolorpicker.com/): Upload an image and pick the hex code of any color in the image.
 
 ### Events
 
@@ -149,6 +151,7 @@ Sorted alphabetically into sub-categories.
 - [BRAINVERSE](https://github.com/ReproNim/brainverse): A neat, open-source, cross-platform tool for notetaking, experiment planning and a labbook tool.
 - [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your (PhD) note-taking mess in one place. If you want to save Tweets and Threads automatically to Notion, use [this](https://twitter.com/SaveToNotion/status/1462012037568073728?s=20&t=KLSbjBQ3HEL1LYlqklKRzA) tutorial.
 - [TRELLO](https://trello.com/): Trello helps you stay organized and work together with others by letting you create lists about anything you want.
+- [The Good Research Code Handbook](https://goodresearch.dev/index.html): Organize your code so that it is easy to understand and works reliably.
 
 ### Podcasts
 
@@ -185,6 +188,9 @@ Sorted alphabetically into sub-categories.
 - [NEUROIMAGING](https://www.youtube.com/playlist?list=PLpnRVYzBd9lwkkuepLTwkeKFQ9JAizs1s): A free online video-based workshop on how to conduct reproducible neuroimaging.
 - [WORKFLOW](https://www.youtube.com/watch?v=fwZqVvHaA0M): Make your whole workflow more reproducible with this great and free 2-hour workshop.
 
+### Version control
+- [Diffchecker](https://www.diffchecker.com/): To compare two files (text/image/PDF/excel) to find the difference between them.
+
 ### Visualization
 
 - [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
@@ -201,6 +207,7 @@ Sorted alphabetically into sub-categories.
 - [PHYLOPIC](phylopic.org): An open database of freely usable silhouettes of life forms.
 - [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
 - [MAKE YOUR OWN SCATTERPLOT](https://drawdata.xyz/): This handy tool allows you to draw in scatterplot points and download a CSV file with the coordinates.
+- [The R Graph Gallery](https://r-graph-gallery.com/): A collection of charts made with the R programming language.
 
 ### Writing
 
