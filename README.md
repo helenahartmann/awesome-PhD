@@ -30,7 +30,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Publication](#publication)
     - [References](#references)
     - [Reproducibility](#reproducibility)
-	- [Version control](#versioncontrol)
+    - [Version control](#versioncontrol)
     - [Visualization](#visualization)
     - [Writing](#writing)
 - [Special thanks for contributions to this list](#special-thanks-for-contributions-to-this-list)
@@ -76,7 +76,7 @@ Sorted alphabetically into sub-categories.
 - [KAPODI STIMULI DATABASE](https://airtable.com/shrnVoUZrwu6riP9b/tbljKUnVvikhzaNvF/viwlo7OvlHBG2q88P?blocks=hide): A huge database of every emotional stimuli you can think of and may want to use in your experiments.
 - [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/): If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
 - [COLOR ORACLE](https://colororacle.org/index.html): A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
-- [Color picker](https://imagecolorpicker.com/): Upload an image and pick the hex code of any color in the image.
+- [COLOR PICKER](https://imagecolorpicker.com/): Upload an image and pick the hex code of any color in the image.
 
 ### Events
 
@@ -154,7 +154,6 @@ Sorted alphabetically into sub-categories.
 - [The Good Research Code Handbook](https://goodresearch.dev/index.html): Organize your code so that it is easy to understand and works reliably.
 
 ### Podcasts
-
 - [ACROSS THE AGES](https://anchor.fm/acrosstheages): An English podcast delving "into the history of a chosen subject, spanning from way back when, all the way up to some time ago".
 - [BRAINFLICKS](https://brainflicks.podigee.io/): A German podcast about psychology in movies.
 - [DEAR GRAD STUDENT](https://www.deargradstudent.com/): An English podcast "to celebrate, commiserate, and support one another through grad school".
@@ -164,7 +163,6 @@ Sorted alphabetically into sub-categories.
 - [SCIENCE SHEROES](https://sciencesheroes.letscast.fm/): A German podcast about women and non-binary people in science.
 
 ### Publication
-
 - [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
 - [EDITOR](https://twitter.com/DrBreaky/status/1273842646377566214?s=20): Have a look at this Twitter thread by [Michael Breakspear](https://twitter.com/DrBreaky) on his experience as a scientific editor.
 - [JOURNAL-AUTHOR-NAME-ESTIMATOR](https://jane.biosemantics.org/): If you don’t know who to suggest as a reviewer or what journal to submit your paper to, check out JANE.
@@ -176,7 +174,6 @@ Sorted alphabetically into sub-categories.
 - [UNPAYWALL](https://unpaywall.org/): As an alternative to SciHub, consider Unpaywall.
 
 ### References
-
 - [BIBTEX](http://www.bibtex.org/): Bibliography & reference generator that works quite well with Rmd/Papaja.
 - [CITING R PACKAGES](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html#add-all-items-to-the-bibliography): [Here](https://twitter.com/ed_hagen/status/1379919849686589447?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) and [here](https://twitter.com/ElenLeFoll/status/1501567477427458055?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) are some handy tutorials on how to cite all your used R packages in an RMarkdown document at once. If you want to generate R package citations, look [here](https://bookdown.org/yihui/rmarkdown-cookbook/write-bib.html).
 - [GRATEFUL](https://github.com/Pakillo/grateful): Use the grateful package in R to automatically create a reference list for all your used R packages.
@@ -184,12 +181,11 @@ Sorted alphabetically into sub-categories.
 - [REFERENCE MANAGEMENT COMPARISON](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software): If you are not sure which reference manager to use, check this handy comparison of all the different ones available and whether they will work on your operating system. 
 
 ### Reproducibility
-
 - [NEUROIMAGING](https://www.youtube.com/playlist?list=PLpnRVYzBd9lwkkuepLTwkeKFQ9JAizs1s): A free online video-based workshop on how to conduct reproducible neuroimaging.
 - [WORKFLOW](https://www.youtube.com/watch?v=fwZqVvHaA0M): Make your whole workflow more reproducible with this great and free 2-hour workshop.
 
 ### Version control
-- [Diffchecker](https://www.diffchecker.com/): To compare two files (text/image/PDF/excel) to find the difference between them.
+- [DIFFCHECKER](https://www.diffchecker.com/): To compare two files (text/image/PDF/excel) to find the difference between them.
 
 ### Visualization
 
@@ -207,7 +203,7 @@ Sorted alphabetically into sub-categories.
 - [PHYLOPIC](phylopic.org): An open database of freely usable silhouettes of life forms.
 - [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
 - [MAKE YOUR OWN SCATTERPLOT](https://drawdata.xyz/): This handy tool allows you to draw in scatterplot points and download a CSV file with the coordinates.
-- [The R Graph Gallery](https://r-graph-gallery.com/): A collection of charts made with the R programming language.
+- [R GRAPH GALLERY](https://r-graph-gallery.com/): A collection of charts made with the R programming language.
 
 ### Writing
 
