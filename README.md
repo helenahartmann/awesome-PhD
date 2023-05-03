@@ -30,7 +30,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Publication](#publication)
     - [References](#references)
     - [Reproducibility](#reproducibility)
-    - [Version control](#versioncontrol)
+    - [Version control](#version-control)
     - [Visualization](#visualization)
     - [Writing](#writing)
 - [Special thanks for contributions to this list](#special-thanks-for-contributions-to-this-list)
