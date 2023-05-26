@@ -58,6 +58,7 @@ Sorted alphabetically into sub-categories.
 
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 - [PHD COMPETENCE MODEL](https://phdcompetencemodel.nl/): This is "a self-assessment tool to help PhD candidates more efficiently direct their time towards improving skills areas that are most needed for their own personal career development."
+- [TALK INVITATIONS](https://www.chjh.nl/what-to-do-with-that-invitation/): Have you been invited to speak somewhere? Here are some questions you might (and should) ask beforehand.
 
 ### Crediting
 
@@ -188,7 +189,6 @@ Sorted alphabetically into sub-categories.
 - [DIFFCHECKER](https://www.diffchecker.com/): To compare two files (text/image/PDF/excel) to find the difference between them.
 
 ### Visualization
-
 - [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
 - [BIOICONS](https://bioicons.com/): A free alternative to BioRender.
 - [BIORENDER](https://biorender.com/): The all-in-one tool for research visualization in a free and paid verson. Visualize study designs and results, or even design whole posters using their tools and icons.
@@ -206,7 +206,6 @@ Sorted alphabetically into sub-categories.
 - [R GRAPH GALLERY](https://r-graph-gallery.com/): A collection of charts made with the R programming language.
 
 ### Writing
-
 - [ACRONYMIFY](https://acronymify.com/): If you need a cool and catchy acronym for your paper, project, etc. check out Acronymify.
 - [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
 - [LEADERSHIP LAB](https://youtu.be/vtIzMaLkCaM): If you want to know how to write effectively, watch this video.
