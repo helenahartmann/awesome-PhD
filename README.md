@@ -16,9 +16,9 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Data](#data)
     - [Design](#design)
     - [Events](#events)
-    - [Experiments](#experiments)
     - [Inclusion](#inclusion)
-    - [Infographics](#infographics-and-cheatsheets)
+    - [Infographics and Cheatsheets](#infographics-and-cheatsheets)
+    - [Keyboard shortcuts](#keyboard-shortcuts)
     - [Literature](#literature)
     - [Meta-analyses](#meta-analyses)
     - [Miscellaneous](#miscellaneous)
@@ -30,6 +30,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Publication](#publication)
     - [References](#references)
     - [Reproducibility](#reproducibility)
+    - [Stimuli](#stimuli)
     - [Version control](#version-control)
     - [Visualization](#visualization)
     - [Writing](#writing)
@@ -45,58 +46,43 @@ This repository is aimed to be a living, constantly developing resource where ev
 - [Resources for Postdocs](https://twitter.com/lei_zhang_lz/status/1474174707788304387?s=20) by [Lei Zhang](https://twitter.com/lei_zhang_lz).
 
 ## List of resources 
-
 Sorted alphabetically into sub-categories.
 
 ### Analysis
-
 - [DATAPASTA](https://github.com/MilesMcBain/datapasta): This R package is "about reducing resistance associated with copying and pasting data to and from R". Copy data from Excel and paste it into R as a dataframe or tibble. 
 - [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
 - [STATCHECK](https://www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
+- [WEB PLOT DIGITIZER](https://automeris.io/WebPlotDigitizer/): Helps you to reverse engineer data from visualizations by extracting the underlying numerical values.
 
 ### Career
-
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 - [PHD COMPETENCE MODEL](https://phdcompetencemodel.nl/): This is "a self-assessment tool to help PhD candidates more efficiently direct their time towards improving skills areas that are most needed for their own personal career development."
+- [POSTDOC FUNDING](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/): Find a list of postdoctoral funding opportunities (there are also separate lists for neuroscience/neurology and cancer/oncology).
 - [TALK INVITATIONS](https://www.chjh.nl/what-to-do-with-that-invitation/): Have you been invited to speak somewhere? Here are some questions you might (and should) ask beforehand.
 
 ### Crediting
-
 - [CITATION DIVERSITY STATEMENT](https://pubmed.ncbi.nlm.nih.gov/32762966/): To increase awareness about citation bias and mitigate it, by checking for and transparently reporting proportions of citing male and female first and last authors, use the citation diversity statement by Zurn et al. (2020, TICS).
 - [CITATION GECKO](https://citationgecko.azurewebsites.net/): "Gecko is here to help you find the most relevant papers to your research and give you a more complete sense of the research landscape."
 - [CREDIT AUTHOR STATEMENT](https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement): Use the CRedit Author Statement by Brandt et al. (2015, Learned Publishing) to report each author’s proper contribution to a manuscript.
 - [TENZING](https://rollercoaster.shinyapps.io/tenzing/): Use the Tenzing ShinyApp for quickly and easily documenting contributorship.
 
 ### Data
-
 - [24 DAYS OF DATABASES](https://twitter.com/fier_caitlin/status/1333731512676651008?s=20): Somebody on twitter was gracious enough to summarize some cool datasets that you can work on.
 - [POPANE DATASET](https://osf.io/94bpx/): A large database on the psychophysiology of positive and negative emotions. "This database involves recording of 1157 healthy participants, collected across seven studies, a continuous recordof self-reported affect along with several biosignals (electrocardiogram, impedance cardiogram, electrodermal activity, hemodynamic measures, e.g., blood pressure), respiration trace, and skin temperature. [The authors] experimentally elicited a wide range of positive and negative emotions, including amusement, anger, disgust, excitement, fear, gratitude, sadness, tenderness, and threat".
 
 ### Design
-
-- [KAPODI STIMULI DATABASE](https://airtable.com/shrnVoUZrwu6riP9b/tbljKUnVvikhzaNvF/viwlo7OvlHBG2q88P?blocks=hide): A huge database of every emotional stimuli you can think of and may want to use in your experiments.
 - [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/): If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
-- [COLOR ORACLE](https://colororacle.org/index.html): A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
-- [COLOR PICKER](https://imagecolorpicker.com/): Upload an image and pick the hex code of any color in the image.
 
 ### Events
-
 - [OPEN RESEARCH CALENDAR](https://openresearchcalendar.org/calendar/): Keep up with all events related to open scholarship with this handy calendar. You can also follow them on Twitter [here](https://twitter.com/OpenResearchCal).
 - [REPRODUCIBILITEA](https://reproducibilitea.org/): Want to discuss the latest papers related to open scholarship? Have a look whether there already is a Reproducibilitea journal club at your institution, and if not, create one of your own!
 - [RIOT SCIENCE CLUB](http://riotscience.co.uk/): The RIOT Science Club is organizing amazing events related to open scholarship. Also visit their [Youtube channel](https://www.youtube.com/c/RIOTScienceClub) for all the recorded talks.
 
-### Experiments
-
-- [EMBODY/EMFACE](https://www.psychologie.uni-freiburg.de/abteilungen/psychobio/tests): This is a 2022 published tool to measure how good people can recognize emotions in the body or face.
-- [FULL BODY STIMULI](https://www.paulconnorpsych.com/stimuli): Need some full-body stimuli in your experiments? Look no further.
-
 ### Inclusion
-
 - [COLS4ALL](https://github.com/mtennekes/cols4all): An R package "for selecting color palettes. 'Color for all' refers to [the authors'] mission that colors should be usable for not just people with normal color vision, but also for people with color vision deficiency". 
 - [EQUITY COMPASS](https://www.futurelearn.com/courses/equity-informal-stem-learning-using-the-equity-compass): A great free online course called "Equity in Informal STEM Learning: Using the Equity Compass" on how to be more inclusive.
 
 ### Infographics and Cheatsheets
-
 - [CHOOSE YOUR PLOT](https://www.linkedin.com/posts/opensourcecommunity_data-datastorytelling-datascience-activity-6879744977417592832-9y4J): No idea how to best plot your data? Have a look at this image.
 - [DOWNLOAD SCIENTIFIC PAPERS](https://twitter.com/AStrasser116/status/1576648460194807808?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Many roads lead to you being able to read a scientific paper...check your options in this handy flowchart.
 - [ETYMOLOGY OF THE BRAIN](https://twitter.com/etymology_nerd/status/1515312745125584896?s=20): Want to know how some parts of the brain got their names? Check out this cool image.
@@ -105,10 +91,13 @@ Sorted alphabetically into sub-categories.
 - [JUPYTER NOTEBOOK CHEATSHEET](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
 - [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
 
-### Literature
+### Keyboard shortcuts
+- Use Windows key + Shift + S to take a cropped screenshot
 
+### Literature
 - [CODA](https://cooperationdatabank.org/): Use Coda, a machine-readable history of cooperation research, to search, select and visualize studies for on-demand meta-analysis.
 - [CONNECTED PAPERS](https://www.connectedpapers.com/): To explore connections between published papers (e.g., for a literature review), use Connected Papers. This is also nice to see the reach of your own research! It is a "unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work".
+- [CONSENSUS](https://consensus.app/): A search engine that uses AI to extract and summarize findings from scientific work.
 - [COVIDENCE](https://www.covidence.org/): This paid tool is well worth its money, because it helps you screen and decide on hundreds of papers if you're working on  a systematic review.
 - [ELICIT](https://elicit.org/): Elicit is your AI research assistant that "uses language models to help you automate research workflows", by finding "relevant papers without perfect keyword match", summarizing "takeaways from the paper specific to your question", and extracting relevant information.
 - [LITERATURE EXCEL SHEET](https://twitter.com/SteMcQuilliam/status/1252241904810557448?s=20): No literature review will ever be the same again, if you use this tutorial to organize all your literature in Excel.
@@ -116,28 +105,27 @@ Sorted alphabetically into sub-categories.
 - [LITMAPS](https://www.litmaps.co/): An all-rounder tool for visual research navigation, citation network search, and team synchronization.
 - [RESEARCH RABBIT](https://www.researchrabbit.ai/): Use Research Rabbit to find both germinal and future works from a single (or multiple) works.
 - [SCHOLARCY](https://www.scholarcy.com/): Want an AI to summarize literature for you? Wait no more, Scholarcy comes to the rescue.
+- [SCITE](https://scite.ai/): A platform for evaluating scientific articles via smart citations, which allows users to assess how a publication has ben cited.
+- [SEABOAT](https://www.seaboat.io/): This app helps you organize your evaluation of a empirical research, focusing on threats to validity. Read the corresponding paper [here](https://psyarxiv.com/fc8v3).
+- [SEMANTIC SCHOLAR](https://www.semanticscholar.org/): A free, AI-powered research tool to find scientific literature.
 - [SNOWBALL](https://github.com/shaunabanana/snowball): A tool that would find related articles with snowballing method.
 
 ### Meta-analyses
-
 - [10 EASY STEPS](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3344936): A tutorial paper on "10 easy steps to conducting transparent, reproducible meta-analyses for infant researchers".
 - [METALAB](https://langcog.github.io/metalab/): This website features interactive, community-augmented meta-analysis tools for cognitive development research.
 - [TEMPLATES](https://psycnet.apa.org/record/2020-66880-001): A primer and tutorial paper on "Conducting a meta-analysis in the age of open science: Tools, tips, and practical recommendations", including nine templates free for use, from preregistration to code to data.
 
 ### Miscellaneous
-
 - [COLOR CONVERTER](https://www.farb-tabelle.de/en/rgb2hex.htm?q=gray20): If you need to find out the code for a certain color, check this handy converter.
 - [DATA HORROR ESCAPE ROOM](https://sites.google.com/vu.nl/datahorror/home): Solve cool puzzles together and learn more about all the horrors data has to offer.
 - [OPEN SCIENCE ESCAPE ROOM](https://norment.github.io/ecrm20_escaperoom/): Want to playfully learn about open science? Check out this fun online escape room.
 - [SEMANTIC SCALE NETWORK](https://rosenbusch.shinyapps.io/semantic_net/): If you want to create a new scale but are not sure whether it exists already, check the Semantic Scale Network to detect semantically related (psychological) scales. You can also add your own scales in there to extend the database.
 
 ### Networking
-
 - [ACADEMICS ON MASTODON](https://github.com/nathanlesage/academics-on-mastodon): A list of various lists consisting of academics on Mastodon and general guidance for academic use.
 - [TWITTER FOR SCIENTISTS](https://t4scientists.com/): A handy guide on how to start off on Twitter if you're a scientist.
 
 ### Neuroscience
-
 - [3D BRAIN](https://www.instructables.com/3D-print-your-own-brain/): Do you have an anatomical scan of your brain and access to a 3D-printer? Follow this easy tutorial to print your own brain.
 - [DICOMTAGS](https://exiftool.org/TagNames/DICOM.html): Do you want to know where a specific information is saved in the DICOM file of your imaging data. Check out DICOM Tags.
 - [EDUCORTEX](https://paulscotti.github.io/educortex/): This handy educational, browser-based visualization tool allows you to enter any functional or anatomical term and visualize the parts of the brain that are most associated with that term. Check the [GitHub repository](https://github.com/PaulScotti/educortex) or corresponding [paper](https://jose.theoj.org/papers/10.21105/jose.00075).
@@ -167,7 +155,8 @@ Sorted alphabetically into sub-categories.
 - [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
 - [EDITOR](https://twitter.com/DrBreaky/status/1273842646377566214?s=20): Have a look at this Twitter thread by [Michael Breakspear](https://twitter.com/DrBreaky) on his experience as a scientific editor.
 - [JOURNAL-AUTHOR-NAME-ESTIMATOR](https://jane.biosemantics.org/): If you don’t know who to suggest as a reviewer or what journal to submit your paper to, check out JANE.
-- [JOURNAL RATER](https://phdvoice.org/journalrater/): If you want to know about the review process and manuscript handling, check out the Journal Rater by [PhD Voice](https://twitter.com/PhDVoice). Because “life’s too short to put up with reviewer 2’s”.
+- [JOURNAL RATER](https://phdvoice.org/journalrater/): If you want to know about the review process and manuscript handling, check out the Journal Rater by [PhD Voice](https://twitter.com/PhDVoice). Because “life’s too short to put up with Reviewer 2’s”.
+- [JOURNAL SUGGESTER](https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/): Just paste your abstract and get some suggestions for journals you can submit to.
 - [ORCID](https://orcid.org/): Get an ORCID - an "Open Researcher and Contributor ID" which is a persistent digital identifier that you own and control, and that distinguishes you from every other researcher. Link your projects and output to your ORCID.
 - [PUBLONS](https://publons.com/about/home/): Use Publons to keep up with all your peer-reviews and publications - it can also be linked to your [ORCID](https://orcid.org/).
 - [SCIREV](https://scirev.org/): If you want to know how long the review process for a specific journal is, or people's experience with publishing there, check SciRev.
@@ -183,7 +172,14 @@ Sorted alphabetically into sub-categories.
 
 ### Reproducibility
 - [NEUROIMAGING](https://www.youtube.com/playlist?list=PLpnRVYzBd9lwkkuepLTwkeKFQ9JAizs1s): A free online video-based workshop on how to conduct reproducible neuroimaging.
+- [PREREGISTRATION TEMPLATES](https://osf.io/zg78t): A list of available preregistration templates.
 - [WORKFLOW](https://www.youtube.com/watch?v=fwZqVvHaA0M): Make your whole workflow more reproducible with this great and free 2-hour workshop.
+
+### Stimuli
+- [EMBODY/EMFACE](https://www.psychologie.uni-freiburg.de/abteilungen/psychobio/tests): This is a 2022 published tool to measure how good people can recognize emotions in the body or face.
+- [EMPATHY FOR PAIN](https://t.co/fCm0u2swGQ): Pictures showing hands in painful situations that can be used to assess empathy for others' pain. Find the corresponding paper [here](https://t.co/afh8OFd0kD).
+- [FULL BODY STIMULI](https://www.paulconnorpsych.com/stimuli): Need some full-body stimuli in your experiments? Look no further.
+- [KAPODI STIMULI DATABASE](https://airtable.com/shrnVoUZrwu6riP9b/tbljKUnVvikhzaNvF/viwlo7OvlHBG2q88P?blocks=hide): A huge database of every emotional stimuli you can think of and may want to use in your experiments.
 
 ### Version control
 - [DIFFCHECKER](https://www.diffchecker.com/): To compare two files (text/image/PDF/excel) to find the difference between them.
@@ -192,7 +188,10 @@ Sorted alphabetically into sub-categories.
 - [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
 - [BIOICONS](https://bioicons.com/): A free alternative to BioRender.
 - [BIORENDER](https://biorender.com/): The all-in-one tool for research visualization in a free and paid verson. Visualize study designs and results, or even design whole posters using their tools and icons.
+- [BRAIN CODE SELECTOR](https://sidchop.shinyapps.io/braincode_selector/): This tool summarized tools to visualize brain data in R, Python, and Matlab.
 - [CANVA](https://www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
+- [COLOR ORACLE](https://colororacle.org/index.html): A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
+- [COLOR PICKER](https://imagecolorpicker.com/): Upload an image and pick the hex code of any color in the image.
 - [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
 - [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free): Font Awesome has loads of free icons to choose from to use in presentations, posters, etc.
 - [FSBRAIN](https://cran.r-project.org/web/packages/fsbrain/vignettes/fsbrain.html): This R package "helps visualize surface-based brain structure data for large groups of subjects with very little code" and "also supports the computation of simple brain morphometry measures".
