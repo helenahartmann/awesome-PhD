@@ -53,12 +53,14 @@ Sorted alphabetically into sub-categories.
 - [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
 - [STATCHECK](https://www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
 - [WEB PLOT DIGITIZER](https://automeris.io/WebPlotDigitizer/): Helps you to reverse engineer data from visualizations by extracting the underlying numerical values.
+- [Infranodus](https://infranodus.com/): Text network analysis with a nice UI for all kinds of inputs.
 
 ### Career
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 - [PHD COMPETENCE MODEL](https://phdcompetencemodel.nl/): This is "a self-assessment tool to help PhD candidates more efficiently direct their time towards improving skills areas that are most needed for their own personal career development."
 - [POSTDOC FUNDING](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/): Find a list of postdoctoral funding opportunities (there are also separate lists for neuroscience/neurology and cancer/oncology).
 - [TALK INVITATIONS](https://www.chjh.nl/what-to-do-with-that-invitation/): Have you been invited to speak somewhere? Here are some questions you might (and should) ask beforehand.
+- [Academic Stack Exchange](https://academia.stackexchange.com/): Q&A for academics and those enrolled in higher education.
 
 ### Crediting
 - [CITATION DIVERSITY STATEMENT](https://pubmed.ncbi.nlm.nih.gov/32762966/): To increase awareness about citation bias and mitigate it, by checking for and transparently reporting proportions of citing male and female first and last authors, use the citation diversity statement by Zurn et al. (2020, TICS).
@@ -69,6 +71,9 @@ Sorted alphabetically into sub-categories.
 ### Data
 - [24 DAYS OF DATABASES](https://twitter.com/fier_caitlin/status/1333731512676651008?s=20): Somebody on twitter was gracious enough to summarize some cool datasets that you can work on.
 - [POPANE DATASET](https://osf.io/94bpx/): A large database on the psychophysiology of positive and negative emotions. "This database involves recording of 1157 healthy participants, collected across seven studies, a continuous recordof self-reported affect along with several biosignals (electrocardiogram, impedance cardiogram, electrodermal activity, hemodynamic measures, e.g., blood pressure), respiration trace, and skin temperature. [The authors] experimentally elicited a wide range of positive and negative emotions, including amusement, anger, disgust, excitement, fear, gratitude, sadness, tenderness, and threat".
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): Another Awesome list that contains a wide range of public datasets.
+- [Awesome Big Data](https://github.com/newTendermint/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [Academic Torrents](https://academictorrents.com/): Torrents of large datasets.
 
 ### Design
 - [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/): If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
@@ -92,7 +97,8 @@ Sorted alphabetically into sub-categories.
 - [R CHEATSHEETS](https://www.rstudio.com/resources/cheatsheets/): There are loads of cheat sheets to help you find your way around in R. 
 
 ### Keyboard shortcuts
-- Use Windows key + Shift + S to take a cropped screenshot
+- Use Windows key + Shift + S to take a cropped screenshot.
+- Make sure to [enable your clipboard history](https://support.microsoft.com/en-us/windows/clipboard-in-windows-c436501e-985d-1c8d-97ea-fe46ddf338c6).
 
 ### Literature
 - [CODA](https://cooperationdatabank.org/): Use Coda, a machine-readable history of cooperation research, to search, select and visualize studies for on-demand meta-analysis.
@@ -120,6 +126,7 @@ Sorted alphabetically into sub-categories.
 - [DATA HORROR ESCAPE ROOM](https://sites.google.com/vu.nl/datahorror/home): Solve cool puzzles together and learn more about all the horrors data has to offer.
 - [OPEN SCIENCE ESCAPE ROOM](https://norment.github.io/ecrm20_escaperoom/): Want to playfully learn about open science? Check out this fun online escape room.
 - [SEMANTIC SCALE NETWORK](https://rosenbusch.shinyapps.io/semantic_net/): If you want to create a new scale but are not sure whether it exists already, check the Semantic Scale Network to detect semantically related (psychological) scales. You can also add your own scales in there to extend the database.
+- [NOODL](https://www.noodl.net/): Open source low code app for building web and cell phone apps.
 
 ### Networking
 - [ACADEMICS ON MASTODON](https://github.com/nathanlesage/academics-on-mastodon): A list of various lists consisting of academics on Mastodon and general guidance for academic use.
@@ -139,6 +146,7 @@ Sorted alphabetically into sub-categories.
 ### Organization
 - [BRAINVERSE](https://github.com/ReproNim/brainverse): A neat, open-source, cross-platform tool for notetaking, experiment planning and a labbook tool.
 - [NOTION](http://notion.so/): I've said it before and I'll say it again - Notion is the best application there is to keep all your (PhD) note-taking mess in one place. If you want to save Tweets and Threads automatically to Notion, use [this](https://twitter.com/SaveToNotion/status/1462012037568073728?s=20&t=KLSbjBQ3HEL1LYlqklKRzA) tutorial.
+- [OBSIDIAN](https://obsidian.md/): An alternative to Notion, with a wide range of community generated plugins.
 - [TRELLO](https://trello.com/): Trello helps you stay organized and work together with others by letting you create lists about anything you want.
 - [The Good Research Code Handbook](https://goodresearch.dev/index.html): Organize your code so that it is easy to understand and works reliably.
 
