@@ -38,7 +38,8 @@ This repository is aimed to be a living, constantly developing resource where ev
 
 <!-- /MarkdownTOC -->
 
-## Other (awesome) lists on this topic
+## Other (awesome) resources on this topic
+- soon to be released: ARIADNE from [IGOR](https://github.com/IGOR-bioDGPs) - a scientific resource collection to navigate the resource jungle.
 - [awesome-phd](https://github.com/alirezasamar/awesome-phd) by [Alireza Samar](https://github.com/alirezasamar).
 - [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) by [Paul Liang](https://github.com/pliang279).
 - [Doctoral Student Cheat Sheet](https://www.prof2prof.com/resource/doctoral-student-cheat-sheet) by [Justin Harty](https://twitter.com/JustinSHarty).
