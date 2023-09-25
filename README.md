@@ -213,6 +213,7 @@ Sorted alphabetically into sub-categories.
 - [PAPAJA](http://frederikaust.com/papaja_man/introduction.html): If you want to create reproducible manuscripts including tables directly from your data in R, use the papaja package.
 - [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
 - [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
+- [THE CRAFT OF WRITING EFFECTIVELY](https://www.youtube.com/watch?v=vtIzMaLkCaM): an effort to communicate helpful rules, skills, and resources that are available to graduate students interested in further developing their writing style
 
 ---
 
