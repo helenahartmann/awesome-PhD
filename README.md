@@ -200,7 +200,7 @@ Sorted alphabetically into sub-categories.
 - [GGHELP](https://rdrr.io/github/brandmaier/ggx/man/gghelp.html): An R package that "converts a natural language query into a 'ggplot2' command string". 
 - [GGPLOT TRICKS](https://twitter.com/data_question/status/1496130684729303045?s=20): Some tricks from the R people to level up your ggplot game.
 - [MIRO](https://miro.com/): You can use Miro for creating visual presentations of anything, and most of all, for collaboration with others! The possibilities are endless.
-- [PHYLOPIC](phylopic.org): An open database of freely usable silhouettes of life forms.
+- [PHYLOPIC](https://www.phylopic.org/): An open database of freely usable silhouettes of life forms.
 - [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
 - [MAKE YOUR OWN SCATTERPLOT](https://drawdata.xyz/): This handy tool allows you to draw in scatterplot points and download a CSV file with the coordinates.
 - [R GRAPH GALLERY](https://r-graph-gallery.com/): A collection of charts made with the R programming language.
