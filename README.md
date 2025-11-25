@@ -110,6 +110,8 @@ Sorted alphabetically into sub-categories.
 - [SEABOAT](https://www.seaboat.io/): This app helps you organize your evaluation of a empirical research, focusing on threats to validity. Read the corresponding paper [here](https://psyarxiv.com/fc8v3).
 - [SEMANTIC SCHOLAR](https://www.semanticscholar.org/): A free, AI-powered research tool to find scientific literature.
 - [SNOWBALL](https://github.com/shaunabanana/snowball): A tool that would find related articles with snowballing method.
+- [UNCITED](https://uncited.org): For keeping up with the literature.
+
 
 ### Meta-analyses
 - [10 EASY STEPS](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3344936): A tutorial paper on "10 easy steps to conducting transparent, reproducible meta-analyses for infant researchers".
