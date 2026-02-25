@@ -58,8 +58,9 @@ Sorted alphabetically into sub-categories.
 ### Career
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 - [PHD COMPETENCE MODEL](https://phdcompetencemodel.nl/): This is "a self-assessment tool to help PhD candidates more efficiently direct their time towards improving skills areas that are most needed for their own personal career development."
+- [PHD INTERNSHIP CAMPAIGN](https://github.com/fl-sean03/phd-internship-campaign): An open-source internship campaign toolkit for STEM PhD students. Includes sector-by-sector company research (130+ targets across national labs, defense primes, FFRDCs, nuclear, and hard tech), a fit-scoring methodology, fill-in-the-blank application templates, and AI prompts to generate tailored application packages at scale. Built for materials science, computational science, and engineering PhD students navigating technical industry roles.
 - [POSTDOC FUNDING](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/): Find a list of postdoctoral funding opportunities (there are also separate lists for neuroscience/neurology and cancer/oncology).
-- [TALK INVITATIONS](https://www.chjh.nl/what-to-do-with-that-invitation/): Have you been invited to speak somewhere? Here are some questions you might (and should) ask beforehand.
+- [TALK INVITATIONS](https://www.chjh.nl/what-to-do-with-that-innovation/): Have you been invited to speak somewhere? Here are some questions you might (and should) ask beforehand.
 
 ### Crediting
 - [CITATION DIVERSITY STATEMENT](https://pubmed.ncbi.nlm.nih.gov/32762966/): To increase awareness about citation bias and mitigate it, by checking for and transparently reporting proportions of citing male and female first and last authors, use the citation diversity statement by Zurn et al. (2020, TICS).
