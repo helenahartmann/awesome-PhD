@@ -40,8 +40,7 @@ This repository is aimed to be a living, constantly developing resource where ev
 
 ## Other (awesome) resources on this topic
 - [ARIADNE](https://igor-biodgps.github.io/ARIADNE/graph/graph.html) from [IGOR](https://github.com/IGOR-bioDGPs) - a scientific resource collection to navigate the resource jungle.
-- [Awesome AI Research Tools](https://github.com/0x11c11e/awesome-ai-research-tools) by [Iman Reihanian](https://github.com/0x11c11e) - a curated list of AI tools for the research workflow: literature review,
-  paper Q&A, citation management, writing, and open datasets.
+- [Awesome AI Research Tools](https://github.com/0x11c11e/awesome-ai-research-tools) by [Iman Reihanian](https://github.com/0x11c11e) - a curated list of AI tools for the research workflow: literature review, paper Q&A, citation management, writing, and open datasets.
 - [awesome-phd](https://github.com/alirezasamar/awesome-phd) by [Alireza Samar](https://github.com/alirezasamar).
 - [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) by [Paul Liang](https://github.com/pliang279).
 - [Doctoral Student Cheat Sheet](https://www.prof2prof.com/resource/doctoral-student-cheat-sheet) by [Justin Harty](https://twitter.com/JustinSHarty).
