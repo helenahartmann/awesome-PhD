@@ -194,6 +194,7 @@ Sorted alphabetically into sub-categories.
 - [AUTODRAW](https://www.autodraw.com/): AutoDraw magically makes your doodles into nicer graphics by suggesting shapes based on what you drew.
 - [BIOICONS](https://bioicons.com/): A free alternative to BioRender.
 - [BIORENDER](https://biorender.com/): The all-in-one tool for research visualization in a free and paid verson. Visualize study designs and results, or even design whole posters using their tools and icons.
+- [FIGPAD](https://figpad.ai/): An AI workspace for creating scientific figures from prompts, sketches, or reference images, with editable SVG/PPTX export for papers and slides.
 - [BRAIN CODE SELECTOR](https://sidchop.shinyapps.io/braincode_selector/): This tool summarized tools to visualize brain data in R, Python, and Matlab.
 - [CANVA](https://www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
 - [COLOR ORACLE](https://colororacle.org/index.html): A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
