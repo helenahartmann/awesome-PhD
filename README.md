@@ -170,7 +170,7 @@ Sorted alphabetically into sub-categories.
 
 ### References
 - [BIBTEX](http://www.bibtex.org/): Bibliography & reference generator that works quite well with Rmd/Papaja.
-- [CITEME](https://citeme.app/): AI-powered citation generator that searches 8+ academic databases (OpenAlex, PubMed, Semantic Scholar, SciELO, CrossRef) and formats references in 40+ styles (APA, MLA, Chicago, ABNT, etc.). Includes browser extensions and Word/Google Docs add-ins.
+- [CITEME](https://citeme.app/): Free citation generator with a built-in reference checker that flags fabricated or hallucinated references. Searches 8+ academic databases (OpenAlex, PubMed, Semantic Scholar, SciELO, CrossRef) and formats references in 40+ styles (APA, MLA, Chicago, ABNT, etc.). No sign-up; available in English, Spanish, Portuguese, French, and German.
 - [CITELY](https://citely.ai/): AI citation checker and academic source finder for verifying references and claims.
 - [CITING R PACKAGES](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html#add-all-items-to-the-bibliography): [Here](https://twitter.com/ed_hagen/status/1379919849686589447?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) and [here](https://twitter.com/ElenLeFoll/status/1501567477427458055?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) are some handy tutorials on how to cite all your used R packages in an RMarkdown document at once. If you want to generate R package citations, look [here](https://bookdown.org/yihui/rmarkdown-cookbook/write-bib.html).
 - [GRATEFUL](https://github.com/Pakillo/grateful): Use the grateful package in R to automatically create a reference list for all your used R packages.
