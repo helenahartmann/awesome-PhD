@@ -57,6 +57,7 @@ Sorted alphabetically into sub-categories.
 - [WEB PLOT DIGITIZER](https://automeris.io/WebPlotDigitizer/): Helps you to reverse engineer data from visualizations by extracting the underlying numerical values.
 
 ### Career
+- [EDU PATH HUB](https://edupathhub.online/): Nine free data-driven tools for college applicants and students — from college finder to citation generator.
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 - [PHD COMPETENCE MODEL](https://phdcompetencemodel.nl/): This is "a self-assessment tool to help PhD candidates more efficiently direct their time towards improving skills areas that are most needed for their own personal career development."
 - [POSTDOC FUNDING](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/): Find a list of postdoctoral funding opportunities (there are also separate lists for neuroscience/neurology and cancer/oncology).
