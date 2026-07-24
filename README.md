@@ -99,6 +99,7 @@ Sorted alphabetically into sub-categories.
 - Use Windows key + Shift + S to take a cropped screenshot
 
 ### Literature
+- [ALMA](https://github.com/costantinoai/alma-library-manager): A free, open-source, self-hosted academic library manager (Docker-based, so the same image runs on any Docker-compatible OS/device; requires Docker installed). Monitor sources like authors and journals to surface new papers in a unified feed, curate a personal library, and use embedding-based Discovery to suggest relevant work beyond what you explicitly track. Currently in alpha, locally tested and actively maintained.
 - [CODA](https://cooperationdatabank.org/): Use Coda, a machine-readable history of cooperation research, to search, select and visualize studies for on-demand meta-analysis.
 - [CONNECTED PAPERS](https://www.connectedpapers.com/): To explore connections between published papers (e.g., for a literature review), use Connected Papers. This is also nice to see the reach of your own research! It is a "unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work".
 - [CONSENSUS](https://consensus.app/): A search engine that uses AI to extract and summarize findings from scientific work.
