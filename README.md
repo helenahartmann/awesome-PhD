@@ -219,6 +219,7 @@ Sorted alphabetically into sub-categories.
 - [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
 - [LEADERSHIP LAB](https://youtu.be/vtIzMaLkCaM): If you want to know how to write effectively, watch this video.
 - [LIST OF ACRONYMS MAKER](https://listofacronyms.com/): Don't waste time collating a list or table of abbreviations manually. This tool does it for you.
+- [OPENPAPER](https://openpaper.dev): AI research-paper writer that turns a prompt into a fully cited draft and verifies every citation against real records (OpenAlex, Crossref, Semantic Scholar), so references are not hallucinated. Open-source engine (OpenDraft, MIT); free tier, no card.
 - [PAPAJA](http://frederikaust.com/papaja_man/introduction.html): If you want to create reproducible manuscripts including tables directly from your data in R, use the papaja package.
 - [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
 - [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
