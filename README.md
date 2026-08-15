@@ -217,6 +217,7 @@ Sorted alphabetically into sub-categories.
 ### Writing
 - [ACRONYMIFY](https://acronymify.com/): If you need a cool and catchy acronym for your paper, project, etc. check out Acronymify.
 - [APA-STYLE WORD DOCUMENT](https://twitter.com/NicolasFNL/status/1357048003027230726?s=20): Thanks to [Nicolás F. Narvaez Linares](https://twitter.com/NicolasFNL) for telling me about the readymade APA-style word document option, where you can directly initialize the right formatting in Word.
+- [HUMANIZE MBA TEXT](https://github.com/stephenlzc/humanize-mba-text-skill): An Agent Skill that detects and rewrites AI writing patterns in Chinese MBA theses toward natural academic style, with detection criteria, rewriting workflows, and example before/after outputs.
 - [LEADERSHIP LAB](https://youtu.be/vtIzMaLkCaM): If you want to know how to write effectively, watch this video.
 - [LIST OF ACRONYMS MAKER](https://listofacronyms.com/): Don't waste time collating a list or table of abbreviations manually. This tool does it for you.
 - [OPENPAPER](https://openpaper.dev): AI research-paper writer that turns a prompt into a fully cited draft and verifies every citation against real records (OpenAlex, Crossref, Semantic Scholar), so references are not hallucinated. Open-source engine (OpenDraft, MIT); free tier, no card.
