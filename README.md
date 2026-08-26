@@ -109,6 +109,7 @@ Sorted alphabetically into sub-categories.
 - [LITERATURE EXCEL SHEET](https://twitter.com/SteMcQuilliam/status/1252241904810557448?s=20): No literature review will ever be the same again, if you use this tutorial to organize all your literature in Excel.
 - [LITERATURE TRACKER](https://scribehow.com/shared/How_to_create_a_literature_tracker_in_Airtable__Fo0LgLIfR76M3BcazOR9-g?utm_campaign=thoughtsofaphd&utm_source=twitter&utm_medium=organic): Have a look at this useful tutorial to keep your literature organized.
 - [LITMAPS](https://www.litmaps.co/): An all-rounder tool for visual research navigation, citation network search, and team synchronization.
+- [PDFAnnotations](https://pdfannotations.com/) : Extract highlights, underlines, notes, comments, and other annotations from PDFs and export them to Markdown, TXT, CSV, Excel, JSON, Obsidian, or Notion. PDFs are processed locally in the browser.
 - [RESEARCH RABBIT](https://www.researchrabbit.ai/): Use Research Rabbit to find both germinal and future works from a single (or multiple) works.
 - [SCHOLARCY](https://www.scholarcy.com/): Want an AI to summarize literature for you? Wait no more, Scholarcy comes to the rescue.
 - [SCITE](https://scite.ai/): A platform for evaluating scientific articles via smart citations, which allows users to assess how a publication has ben cited.
