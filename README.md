@@ -163,7 +163,7 @@ Sorted alphabetically into sub-categories.
 ### Publication
 - [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
 - [EDITOR](https://twitter.com/DrBreaky/status/1273842646377566214?s=20): Have a look at this Twitter thread by [Michael Breakspear](https://twitter.com/DrBreaky) on his experience as a scientific editor.
-- [JOURNAL FINDER (SCIENCE AI JOURNAL)](https://scienceaijournal.com/journal-recommender): Paste your title and abstract to get a ranked shortlist of journals matched to your paper from a 17,000+ venue index, each with its Scimago quartile, open-access status, citation rate, and a predatory-journal flag. Free account with starter credits.
+- [JOURNAL RECOMMENDER](https://scienceaijournal.com/journal-recommender): Paste your title and abstract to get a ranked shortlist of journals matched to your paper from a 17,000+ venue index, each with its Scimago quartile, open-access status, citation rate, and a predatory-journal flag. Free account with starter credits.
 - [JOURNAL-AUTHOR-NAME-ESTIMATOR](https://jane.biosemantics.org/): If you don’t know who to suggest as a reviewer or what journal to submit your paper to, check out JANE.
 - [JOURNAL RATER](https://phdvoice.org/journalrater/): If you want to know about the review process and manuscript handling, check out the Journal Rater by [PhD Voice](https://twitter.com/PhDVoice). Because “life’s too short to put up with Reviewer 2’s”.
 - [JOURNAL SUGGESTER](https://authorservices.taylorandfrancis.com/publishing-your-research/choosing-a-journal/journal-suggester/): Just paste your abstract and get some suggestions for journals you can submit to.
