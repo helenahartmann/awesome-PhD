@@ -231,6 +231,7 @@ Sorted alphabetically into sub-categories.
 - [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
 - [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
 - [RESEARCH PAPER LIFECYCLE SKILLS](https://github.com/ShaishavMaisuria/research-paper-lifecycle-skills): Open-source Agent Skills package for literature review, citation checks, submission preflight, rebuttals, and presentation prep.
+- [SCHOLARSPEC](https://scholarspec.com/): Automated manuscript and dissertation formatting engine that turns Word drafts into compliant, submission-ready documents for academic journals and university guidelines.
 - [THE CRAFT OF WRITING EFFECTIVELY](https://www.youtube.com/watch?v=vtIzMaLkCaM): An effort to communicate helpful rules, skills, and resources that are available to graduate students interested in further developing their writing style.
 
 ---
