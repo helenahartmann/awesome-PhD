@@ -14,6 +14,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Career](#career)
     - [Crediting](#crediting)
     - [Data](#data)
+    - [Data Management](#data-management)
     - [Design](#design)
     - [Events](#events)
     - [Inclusion](#inclusion)
@@ -73,8 +74,11 @@ Sorted alphabetically into sub-categories.
 ### Data
 - [24 DAYS OF DATABASES](https://twitter.com/fier_caitlin/status/1333731512676651008?s=20): Somebody on twitter was gracious enough to summarize some cool datasets that you can work on.
 - [POPANE DATASET](https://osf.io/94bpx/): A large database on the psychophysiology of positive and negative emotions. "This database involves recording of 1157 healthy participants, collected across seven studies, a continuous recordof self-reported affect along with several biosignals (electrocardiogram, impedance cardiogram, electrodermal activity, hemodynamic measures, e.g., blood pressure), respiration trace, and skin temperature. [The authors] experimentally elicited a wide range of positive and negative emotions, including amusement, anger, disgust, excitement, fear, gratitude, sadness, tenderness, and threat".
-- [DATA MANAGEMENT IN EDUCATION RESEARCH](https://datamgmtinedresearch.com/): And open access resource (awarded a SIPS Commendation in 2025) that shares best practices in data management throughout the project life cycle.
 
+### Data Management
+- [DATA MANAGEMENT IN LARGE-SCALE EDUCATION RESEARCH](https://datamgmtinedresearch.com/): And open access resource (awarded a SIPS Commendation in 2025) that shares best practices in data management throughout the project life cycle.
+- [RESEARCH DATA MANAGEMENT WEEKLY](https://rdmweekly.substack.com/): A free weekly newsletter providing research data management resources.
+  
 ### Design
 - [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/): If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
 
@@ -189,6 +193,7 @@ Sorted alphabetically into sub-categories.
 ### Reproducibility
 - [NEUROIMAGING](https://www.youtube.com/playlist?list=PLpnRVYzBd9lwkkuepLTwkeKFQ9JAizs1s): A free online video-based workshop on how to conduct reproducible neuroimaging.
 - [PREREGISTRATION TEMPLATES](https://osf.io/zg78t): A list of available preregistration templates.
+- [PYSCH-DS](https://psych-ds.github.io/): a community data standard and technical specification that provides a systematic approach to organizing scientific datasets.
 - [WORKFLOW](https://www.youtube.com/watch?v=fwZqVvHaA0M): Make your whole workflow more reproducible with this great and free 2-hour workshop.
 
 ### Stimuli
