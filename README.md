@@ -73,6 +73,7 @@ Sorted alphabetically into sub-categories.
 ### Data
 - [24 DAYS OF DATABASES](https://twitter.com/fier_caitlin/status/1333731512676651008?s=20): Somebody on twitter was gracious enough to summarize some cool datasets that you can work on.
 - [POPANE DATASET](https://osf.io/94bpx/): A large database on the psychophysiology of positive and negative emotions. "This database involves recording of 1157 healthy participants, collected across seven studies, a continuous recordof self-reported affect along with several biosignals (electrocardiogram, impedance cardiogram, electrodermal activity, hemodynamic measures, e.g., blood pressure), respiration trace, and skin temperature. [The authors] experimentally elicited a wide range of positive and negative emotions, including amusement, anger, disgust, excitement, fear, gratitude, sadness, tenderness, and threat".
+- [DATA MANAGEMENT IN EDUCATION RESEARCH](https://datamgmtinedresearch.com/): And open access resource (awarded a SIPS Commendation in 2025) that shares best practices in data management throughout the project life cycle.
 
 ### Design
 - [SAMPLE SIZE JUSTIFICATION](https://psyarxiv.com/9d3yf/): If you need help justifying your sample size, use this [Shiny app](https://shiny.ieis.tue.nl/sample_size_justification/) from [Daniel Lakens](https://daniellakens.blogspot.com/).
