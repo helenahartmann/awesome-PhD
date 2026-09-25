@@ -76,7 +76,7 @@ Sorted alphabetically into sub-categories.
 - [POPANE DATASET](https://osf.io/94bpx/): A large database on the psychophysiology of positive and negative emotions. "This database involves recording of 1157 healthy participants, collected across seven studies, a continuous recordof self-reported affect along with several biosignals (electrocardiogram, impedance cardiogram, electrodermal activity, hemodynamic measures, e.g., blood pressure), respiration trace, and skin temperature. [The authors] experimentally elicited a wide range of positive and negative emotions, including amusement, anger, disgust, excitement, fear, gratitude, sadness, tenderness, and threat".
 
 ### Data Management
-- [DATA MANAGEMENT IN LARGE-SCALE EDUCATION RESEARCH](https://datamgmtinedresearch.com/): And open access resource (awarded a SIPS Commendation in 2025) that shares best practices in data management throughout the project life cycle.
+- [DATA MANAGEMENT IN LARGE-SCALE EDUCATION RESEARCH](https://datamgmtinedresearch.com/): An open access resource (published by CRC Press in 2024 and awarded a SIPS Commendation in 2025) that shares best practices in data management throughout the project life cycle.
 - [RESEARCH DATA MANAGEMENT WEEKLY](https://rdmweekly.substack.com/): A free weekly newsletter providing research data management resources.
   
 ### Design
@@ -193,7 +193,7 @@ Sorted alphabetically into sub-categories.
 ### Reproducibility
 - [NEUROIMAGING](https://www.youtube.com/playlist?list=PLpnRVYzBd9lwkkuepLTwkeKFQ9JAizs1s): A free online video-based workshop on how to conduct reproducible neuroimaging.
 - [PREREGISTRATION TEMPLATES](https://osf.io/zg78t): A list of available preregistration templates.
-- [PYSCH-DS](https://psych-ds.github.io/): a community data standard and technical specification that provides a systematic approach to organizing scientific datasets.
+- [PYSCH-DS](https://psych-ds.github.io/): A community data standard and technical specification that provides a systematic approach to organizing scientific datasets.
 - [WORKFLOW](https://www.youtube.com/watch?v=fwZqVvHaA0M): Make your whole workflow more reproducible with this great and free 2-hour workshop.
 
 ### Stimuli
