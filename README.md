@@ -225,7 +225,7 @@ Sorted alphabetically into sub-categories.
 - [R VISUALIZATION](https://wilkelab.org/SDS375/syllabus.html): This is a great syllabus about visualizing data in R, held by [Claus Wilke](https://github.com/clauswilke).
 - [MAKE YOUR OWN SCATTERPLOT](https://drawdata.xyz/): This handy tool allows you to draw in scatterplot points and download a CSV file with the coordinates.
 - [R GRAPH GALLERY](https://r-graph-gallery.com/): A collection of charts made with the R programming language.
-- [SciDraw AI](https://sci-draw.com/): An AI tool for creating scientific figures from text or images and converting graphics into editable SVG and PowerPoint files for papers and presentations.
+- [SCIDRAW](https://sci-draw.com/): An AI tool for creating scientific figures from text or images and converting graphics into editable SVG and PowerPoint files for papers and presentations.
 
 ### Writing
 - [ACRONYMIFY](https://acronymify.com/): If you need a cool and catchy acronym for your paper, project, etc. check out Acronymify.
