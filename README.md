@@ -28,6 +28,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Online presence](#online-presence)
     - [Organization](#organization)
     - [Podcasts](#podcasts)
+    - [Presentation](#presentation)
     - [Publication](#publication)
     - [References](#references)
     - [Reproducibility](#reproducibility)
@@ -167,6 +168,9 @@ Sorted alphabetically into sub-categories.
 - [HONEST ACADEMIA](https://anchor.fm/honest-academia): An English podcast from two grad students discussing navigating academia.
 - [PLANTHROPOLOGY](https://www.planthropologypod.com/): An English podcast "about humans who love plants & why you should love plants too".
 - [SCIENCE SHEROES](https://sciencesheroes.letscast.fm/): A German podcast about women and non-binary people in science.
+
+### Presentation
+- [PRESENTATION TIPS](https://light-tracer.com/category/guides-tips/): Handy presentation tips, e.g. dstinguish a physical laser dot from shared-slide annotations and check the remote audience view before a research talk in Zoom or Teams.
 
 ### Publication
 - [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
