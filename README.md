@@ -151,6 +151,7 @@ Sorted alphabetically into sub-categories.
 - [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
 
 ### Online Presence
+- [AMPLIFY BY RESEARCHBUNNY](https://www.researchamplify.com/): Upload the PDF of a published paper to get a video abstract, a vertical short, an audio brief in English plus 21 more languages, and a one-page print-ready infographic. A person reviews every format and nothing is published until you approve it. One script tag embeds them on your faculty profile, lab site or publication list, where readers can read, listen and ask questions about the paper. Paid per paper, no subscription.
 - [WOWCHEMY WEBSITE](https://twitter.com/dsquintana/status/1310715433654382599?s=20): If you want to create your own website, but have no clue where to start, check out [Daniel Quintana](https://twitter.com/dsquintana)'s extremely easy tutorial! Also have a look at [my website](https://helenahartmann.com/) for an example.
 
 ### Organization
