@@ -171,6 +171,7 @@ Sorted alphabetically into sub-categories.
 
 ### Presentation
 - [PRESENTATION TIPS](https://light-tracer.com/category/guides-tips/): Handy presentation tips, e.g. dstinguish a physical laser dot from shared-slide annotations and check the remote audience view before a research talk in Zoom or Teams.
+- [AITHO](https://aitho.app): Rehearse a conference talk or defense out loud with your own slides. The script follows your voice, slides advance as you speak, and you can practise likely audience questions. Free plan available.
 
 ### Publication
 - [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
