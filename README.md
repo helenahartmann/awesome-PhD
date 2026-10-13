@@ -70,6 +70,7 @@ Sorted alphabetically into sub-categories.
 - [CITATION DIVERSITY STATEMENT](https://pubmed.ncbi.nlm.nih.gov/32762966/): To increase awareness about citation bias and mitigate it, by checking for and transparently reporting proportions of citing male and female first and last authors, use the citation diversity statement by Zurn et al. (2020, TICS).
 - [CITATION GECKO](https://citationgecko.azurewebsites.net/): "Gecko is here to help you find the most relevant papers to your research and give you a more complete sense of the research landscape."
 - [CREDIT AUTHOR STATEMENT](https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement): Use the CRedit Author Statement by Brandt et al. (2015, Learned Publishing) to report each author’s proper contribution to a manuscript.
+- [CREDIT MATRIX](https://credit.duinlab.nl): Use CRediT Matrix to draft your CRediT statement in a grid, compare it with what your co-authors say they did, and export the statement, a contribution heatmap or JATS4R XML. It imports tenzing's contributor spreadsheet. Free and open source.
 - [TENZING](https://rollercoaster.shinyapps.io/tenzing/): Use the Tenzing ShinyApp for quickly and easily documenting contributorship.
 
 ### Data
