@@ -65,6 +65,7 @@ Sorted alphabetically into sub-categories.
 - [POSTDOC FUNDING](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/): Find a list of postdoctoral funding opportunities (there are also separate lists for neuroscience/neurology and cancer/oncology).
 - [SIGMACV](https://sigmacv.org): A free, open-source tool that auto-builds your academic CV from ORCID and OpenAlex — curate it and export to PDF, Word, LaTeX or Markdown, or publish a living public page.
 - [TALK INVITATIONS](https://www.chjh.nl/what-to-do-with-that-invitation/): Have you been invited to speak somewhere? Here are some questions you might (and should) ask beforehand.
+- [VITAE](https://purplelink.llc/vitae/): A free Mac app that tracks your papers, submissions, grants, teaching and service, and builds your CV from that record. It is closed source, and an optional paid subscription adds extra tools.
 
 ### Crediting
 - [CITATION DIVERSITY STATEMENT](https://pubmed.ncbi.nlm.nih.gov/32762966/): To increase awareness about citation bias and mitigate it, by checking for and transparently reporting proportions of citing male and female first and last authors, use the citation diversity statement by Zurn et al. (2020, TICS).
