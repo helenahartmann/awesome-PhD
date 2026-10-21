@@ -2,6 +2,7 @@
 
 Before you submit a contribution via a pull request, please read the following guidelines first.
 
+1) Is the relevant for academics or scholars? Does it make their life easier? Please refrain from adding general tools that are great for everybody, but focus on academia.
 1) Is the tool you are suggesting in fact really awesome, tried and tested and therefore worthy to be included in this list?
 2) Is the tool free or is there at least a free option so that people who don't have the financial resources may also use it?
 3) Please submit a separate pull request for each suggestion, that makes my life so much easier!
