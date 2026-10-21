@@ -200,6 +200,7 @@ Sorted alphabetically into sub-categories.
 - [GRATEFUL](https://github.com/Pakillo/grateful): Use the grateful package in R to automatically create a reference list for all your used R packages.
 - [RECITEWORKS](https://reciteworks.com/): To check your in-text citations and reference lists for errors, use Reciteworks.
 - [REFERENCE MANAGEMENT COMPARISON](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software): If you are not sure which reference manager to use, check this handy comparison of all the different ones available and whether they will work on your operating system. 
+- [VERIPAPER](https://szzxli.github.io/veripaper/web/): Free, open-source (MIT) citation checker for research drafts. Paste a draft or upload a .docx/.pdf and it checks whether each cited source exists (CrossRef, DataCite, arXiv, Semantic Scholar, Europe PMC, DBLP), flags references it cannot find, and labels each claim honestly (verified / cited / unverified / stale). Runs in your browser; no sign-up.
 
 ### Reproducibility
 - [NEUROIMAGING](https://www.youtube.com/playlist?list=PLpnRVYzBd9lwkkuepLTwkeKFQ9JAizs1s): A free online video-based workshop on how to conduct reproducible neuroimaging.
