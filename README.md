@@ -55,6 +55,7 @@ Sorted alphabetically into sub-categories.
 ### Analysis
 - [DATAPASTA](https://github.com/MilesMcBain/datapasta): This R package is "about reducing resistance associated with copying and pasting data to and from R". Copy data from Excel and paste it into R as a dataframe or tibble. 
 - [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
+- [SPIRELIGHT TRANSCRIPTION](https://transcription.spirelight.ai/en): Upload an interview or lecture recording and get a draft transcript with speakers and timestamps, correct it in the browser, export to Word, TXT or SRT, and code quotes for qualitative analysis. 1 hour free after email verification, then €2 per hour.
 - [STATCHECK](https://www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
 - [WEB PLOT DIGITIZER](https://automeris.io/WebPlotDigitizer/): Helps you to reverse engineer data from visualizations by extracting the underlying numerical values.
 - [YAP AUDIO TO TEXT](https://yapapp.cc/audio-to-text): Free in-browser transcription of interview and lecture recordings, with SRT/VTT subtitle export. The audio is processed on your own computer and never uploaded, which helps when participant recordings must stay private.
