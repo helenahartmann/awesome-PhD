@@ -1,6 +1,6 @@
 # awesome-PhD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of carefully selected, academia-focused tools and resources I wish I knew when starting my PhD. All of these tools make your life SO MUCH easier and are both for early career as well as more senior researchers. The original Twitter thread where I started this list can be found [here](https://twitter.com/helenahhartmann/status/1473735195920633859).
+A curated list of carefully selected, academia-focused tools and resources I wish I knew when starting my PhD. All of these tools make your life SO MUCH easier and are both for early career as well as more senior researchers. The majority of the tools are completely free to use, some have a fully free tier. The original Twitter thread where I started this list can be found [here](https://twitter.com/helenahhartmann/status/1473735195920633859).
 
 This repository is aimed to be a living, constantly developing resource where everybody can contribute with new resources! If you want to contribute, please read the contribution guidelines [here](https://github.com/helenahartmann/awesome-PhD/blob/main/contributing_guidelines.md) first, then send a pull request or contact me on [Bluesky](https://bsky.app/profile/helenahartmann.com) in case of any questions.
 
@@ -108,31 +108,26 @@ Sorted alphabetically into sub-categories.
 - Use Windows key + Shift + S to take a cropped screenshot
 
 ### Literature
-- [AI-POWERED LITERATURE REVIEW](https://github.com/stephenlzc/AI-Powered-Literature-Review-Skills): A systematic literature review skill with an 8-phase workflow — query analysis, parallel database search (CNKI, Web of Science, ScienceDirect, PubMed), deduplication, GB/T 7714-2015 citation formatting, and a scored review loop — compatible with Claude Code and other AI coding tools.
 - [ALMA](https://github.com/costantinoai/alma-library-manager): A free, open-source, self-hosted academic library manager (Docker-based, so the same image runs on any Docker-compatible OS/device; requires Docker installed). Monitor sources like authors and journals to surface new papers in a unified feed, curate a personal library, and use embedding-based Discovery to suggest relevant work beyond what you explicitly track. Currently in alpha, locally tested and actively maintained.
 - [ARXIV TLDR](https://arxivtldr.org): Plain-language summaries of new arXiv papers (one-line "too long, didn't read" (TLDR), key contributions, why it matters), a weekly digest, and a free Chrome extension that shows the TLDR on arXiv abstract pages. Core summaries are free; a paid tier adds Q&A over a paper's full text.
 - [CITATIONGRAPH](https://citationgraph.org): Generation and visualization of large citation graphs from a list DOIs.
 - [CODA](https://cooperationdatabank.org/): Use Coda, a machine-readable history of cooperation research, to search, select and visualize studies for on-demand meta-analysis.
 - [CONNECTED PAPERS](https://www.connectedpapers.com/): To explore connections between published papers (e.g., for a literature review), use Connected Papers. This is also nice to see the reach of your own research! It is a "unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work".
 - [CONSENSUS](https://consensus.app/): A search engine that uses AI to extract and summarize findings from scientific work.
-- [COVIDENCE](https://www.covidence.org/): This paid tool is well worth its money, because it helps you screen and decide on hundreds of papers if you're working on  a systematic review.
 - [ELICIT](https://elicit.org/): Elicit is your AI research assistant that "uses language models to help you automate research workflows", by finding "relevant papers without perfect keyword match", summarizing "takeaways from the paper specific to your question", and extracting relevant information.
-- [ISOMOR](https://tryisomor.com/use-cases/research-paper-translation?utm_source=github&utm_medium=directory&utm_campaign=outreach): Translate a text-based PDF paper while keeping its layout, read the source and the translation side by side, and download a translated or bilingual PDF. Free to start; scanned PDFs are not supported.
 - [LEMMA](https://github.com/fus3r/lemma): Free, open-source macOS PDF reader for mathematics papers and textbooks that turns references such as "Theorem 2.3" or "(3.41)" into links you can preview without losing your place, opens citations at their bibliography entry and checks the derivations you write.
 - [LITERATURE EXCEL SHEET](https://twitter.com/SteMcQuilliam/status/1252241904810557448?s=20): No literature review will ever be the same again, if you use this tutorial to organize all your literature in Excel.
 - [LITERATURE TRACKER](https://scribehow.com/shared/How_to_create_a_literature_tracker_in_Airtable__Fo0LgLIfR76M3BcazOR9-g?utm_campaign=thoughtsofaphd&utm_source=twitter&utm_medium=organic): Have a look at this useful tutorial to keep your literature organized.
 - [LITMAPS](https://www.litmaps.co/): An all-rounder tool for visual research navigation, citation network search, and team synchronization.
-- [NUJAN](https://nujan.app/): A dual-pane paper reader that helps PhD students unpack dense methodology, verify claims directly against the PDF, and prepare for journal clubs.
 - [ONHAND](https://useonhand.com): Free, open-source Chrome extension that answers questions about the paper or webpage you're reading and highlights the passages it used.
 - [PDF ANNOTATIONS](https://pdfannotations.com/): Extract highlights, underlines, notes, comments, and other annotations from PDFs and export them to Markdown, TXT, CSV, Excel, JSON, Obsidian, or Notion. PDFs are processed locally in the browser.
 - [RESEARCH RABBIT](https://www.researchrabbit.ai/): Use Research Rabbit to find both germinal and future works from a single (or multiple) works.
 - [SCHOLARCY](https://www.scholarcy.com/): Want an AI to summarize literature for you? Wait no more, Scholarcy comes to the rescue.
-- [SCITE](https://scite.ai/): A platform for evaluating scientific articles via smart citations, which allows users to assess how a publication has ben cited.
+- [SCITE](https://scite.ai/): A platform for evaluating scientific articles via smart citations, which allows users to assess how a publication has been cited.
 - [SEABOAT](https://www.seaboat.io/): This app helps you organize your evaluation of a empirical research, focusing on threats to validity. Read the corresponding paper [here](https://psyarxiv.com/fc8v3).
 - [SEMANTIC SCHOLAR](https://www.semanticscholar.org/): A free, AI-powered research tool to find scientific literature.
 - [SNOWBALL](https://github.com/shaunabanana/snowball): A tool that would find related articles with snowballing method.
 - [UNCITED](https://uncited.org): For keeping up with the literature.
-
 
 ### Meta-analyses
 - [10 EASY STEPS](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3344936): A tutorial paper on "10 easy steps to conducting transparent, reproducible meta-analyses for infant researchers".
@@ -151,6 +146,7 @@ Sorted alphabetically into sub-categories.
 
 ### Neuroscience
 - [3D BRAIN](https://www.instructables.com/3D-print-your-own-brain/): Do you have an anatomical scan of your brain and access to a 3D-printer? Follow this easy tutorial to print your own brain.
+- [3D SLICER](https://slicer.org/): A free, open source software for visualization, processing, segmentation, registration, and analysis of medical, biomedical, and other 3D images and meshes; and planning and navigating image-guided procedures.
 - [DICOMTAGS](https://exiftool.org/TagNames/DICOM.html): Do you want to know where a specific information is saved in the DICOM file of your imaging data. Check out DICOM Tags.
 - [EDUCORTEX](https://paulscotti.github.io/educortex/): This handy educational, browser-based visualization tool allows you to enter any functional or anatomical term and visualize the parts of the brain that are most associated with that term. Check the [GitHub repository](https://github.com/PaulScotti/educortex) or corresponding [paper](https://jose.theoj.org/papers/10.21105/jose.00075).
 - [FMRI COURSE](https://ucl.podia.com/designing-and-analysing-fmri-experiments): Learn how to design and analyze fMRI experiments in this free course.
@@ -177,7 +173,6 @@ Sorted alphabetically into sub-categories.
 
 ### Presentation
 - [PRESENTATION TIPS](https://light-tracer.com/category/guides-tips/): Handy presentation tips, e.g. dstinguish a physical laser dot from shared-slide annotations and check the remote audience view before a research talk in Zoom or Teams.
-- [AITHO](https://aitho.app): Rehearse a conference talk or defense out loud with your own slides. The script follows your voice, slides advance as you speak, and you can practise likely audience questions. Free plan available.
 
 ### Publication
 - [10 WAYS TO FIND OPEN ACCESS ARTICLES](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) curated by [Aleksandra Lazic](https://twitter.com/AleLazic).
@@ -195,7 +190,6 @@ Sorted alphabetically into sub-categories.
 ### References
 - [BIBTEX](http://www.bibtex.org/): Bibliography & reference generator that works quite well with Rmd/Papaja.
 - [CITEME](https://citeme.app/): Free citation generator with a built-in reference checker that flags fabricated or hallucinated references. Searches 8+ academic databases (OpenAlex, PubMed, Semantic Scholar, SciELO, CrossRef) and formats references in 40+ styles (APA, MLA, Chicago, ABNT, etc.). No sign-up; available in English, Spanish, Portuguese, French, and German.
-- [CITELY](https://citely.ai/): AI citation checker and academic source finder for verifying references and claims.
 - [CITING R PACKAGES](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html#add-all-items-to-the-bibliography): [Here](https://twitter.com/ed_hagen/status/1379919849686589447?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) and [here](https://twitter.com/ElenLeFoll/status/1501567477427458055?s=20&t=X3HyzSYOyPtqKDUd6gBaZA) are some handy tutorials on how to cite all your used R packages in an RMarkdown document at once. If you want to generate R package citations, look [here](https://bookdown.org/yihui/rmarkdown-cookbook/write-bib.html).
 - [GRATEFUL](https://github.com/Pakillo/grateful): Use the grateful package in R to automatically create a reference list for all your used R packages.
 - [NEXUS HUMANUM REFERENCE CHECKER](https://www.nexushumanum.space/en/reference-checker): Free, no sign-up: paste a reference list (up to 40 lines) and each entry is matched against scholarly catalogues by author, year and title; found works come back with publication details and DOI, missing ones are flagged. Useful for catching AI-fabricated references; built for the humanities and social sciences.
@@ -247,7 +241,6 @@ Sorted alphabetically into sub-categories.
 - [LEADERSHIP LAB](https://youtu.be/vtIzMaLkCaM): If you want to know how to write effectively, watch this video.
 - [LIST OF ACRONYMS MAKER](https://listofacronyms.com/): Don't waste time collating a list or table of abbreviations manually. This tool does it for you.
 - [OLEAFLY](https://oleafly.com): Free, open-source desktop app for writing papers and theses in LaTeX, Typst or Markdown. It comes with its own LaTeX engine (no TeX install needed), live PDF preview, journal and thesis templates, and Zotero citations. Works offline on macOS, Windows and Linux.
-- [OPENPAPER](https://openpaper.dev): AI research-paper writer that turns a prompt into a fully cited draft and verifies every citation against real records (OpenAlex, Crossref, Semantic Scholar), so references are not hallucinated. Open-source engine (OpenDraft, MIT); free tier, no card.
 - [PAPAJA](http://frederikaust.com/papaja_man/introduction.html): If you want to create reproducible manuscripts including tables directly from your data in R, use the papaja package.
 - [PREPRINT TEMPLATES](https://osf.io/hsv6a/): Amazing and useful "Word templates for typesetting preprints. Because your preprint should be a #prettypreprint" and we don't have time for endless formatting.
 - [QUILLBOT](https://quillbot.com/): Paraphrase like the awesome boss you are using QuillBot.
