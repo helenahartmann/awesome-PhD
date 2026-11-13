@@ -236,6 +236,7 @@ Sorted alphabetically into sub-categories.
 - [MAKE YOUR OWN SCATTERPLOT](https://drawdata.xyz/): This handy tool allows you to draw in scatterplot points and download a CSV file with the coordinates.
 - [R GRAPH GALLERY](https://r-graph-gallery.com/): A collection of charts made with the R programming language.
 - [SCIDRAW](https://sci-draw.com/): An AI tool for creating scientific figures from text or images and converting graphics into editable SVG and PowerPoint files for papers and presentations.
+- [SCIENTIFIC FIGURE](https://scientificfigure.com/): An AI tool for creating scientific illustrations, graphical abstracts, data plots, and conference posters from a text prompt, sketch, or PDF. The free plan has no time limit, gives free credits through daily check-in, and exports with a small watermark.
 
 ### Writing
 - [ACRONYMIFY](https://acronymify.com/): If you need a cool and catchy acronym for your paper, project, etc. check out Acronymify.
