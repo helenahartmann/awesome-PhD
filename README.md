@@ -223,6 +223,7 @@ Sorted alphabetically into sub-categories.
 - [CANVA](https://www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
 - [COLOR ORACLE](https://colororacle.org/index.html): A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
 - [COLOR PICKER](https://imagecolorpicker.com/): Upload an image and pick the hex code of any color in the image.
+- [COVALENT](https://chempirical.com/covalent/): A free browser editor for chemical structures, reactions and mechanisms that exports SVG, PNG and PDF figures for papers, posters and slides. No account needed.
 - [FIGPAD](https://figpad.ai/): An AI workspace for creating scientific figures from prompts, sketches, or reference images, with editable SVG/PPTX export for papers and slides.
 - [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
 - [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free): Font Awesome has loads of free icons to choose from to use in presentations, posters, etc.
