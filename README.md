@@ -17,6 +17,7 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Data Management](#data-management)
     - [Design](#design)
     - [Events](#events)
+    - [Field-specific tools](#field-specific-tools)
     - [Inclusion](#inclusion)
     - [Infographics and Cheatsheets](#infographics-and-cheatsheets)
     - [Keyboard shortcuts](#keyboard-shortcuts)
@@ -24,7 +25,6 @@ This repository is aimed to be a living, constantly developing resource where ev
     - [Meta-analyses](#meta-analyses)
     - [Miscellaneous](#miscellaneous)
     - [Networking](#networking)
-    - [Neuroscience](#neuroscience)
     - [Online presence](#online-presence)
     - [Organization](#organization)
     - [Podcasts](#podcasts)
@@ -92,6 +92,21 @@ Sorted alphabetically into sub-categories.
 - [REPRODUCIBILITEA](https://reproducibilitea.org/): Want to discuss the latest papers related to open scholarship? Have a look whether there already is a Reproducibilitea journal club at your institution, and if not, create one of your own!
 - [RIOT SCIENCE CLUB](http://riotscience.co.uk/): The RIOT Science Club is organizing amazing events related to open scholarship. Also visit their [Youtube channel](https://www.youtube.com/c/RIOTScienceClub) for all the recorded talks.
 
+### Field-specific tools
+
+#### Chemistry
+- [COVALENT](https://chempirical.com/covalent/): A free browser editor for chemical structures, reactions and mechanisms that exports SVG, PNG and PDF figures for papers, posters and slides. No account needed.
+
+#### Neuroscience
+- [3D BRAIN](https://www.instructables.com/3D-print-your-own-brain/): Do you have an anatomical scan of your brain and access to a 3D-printer? Follow this easy tutorial to print your own brain.
+- [3D SLICER](https://slicer.org/): A free, open source software for visualization, processing, segmentation, registration, and analysis of medical, biomedical, and other 3D images and meshes; and planning and navigating image-guided procedures.
+- [DICOMTAGS](https://exiftool.org/TagNames/DICOM.html): Do you want to know where a specific information is saved in the DICOM file of your imaging data. Check out DICOM Tags.
+- [EDUCORTEX](https://paulscotti.github.io/educortex/): This handy educational, browser-based visualization tool allows you to enter any functional or anatomical term and visualize the parts of the brain that are most associated with that term. Check the [GitHub repository](https://github.com/PaulScotti/educortex) or corresponding [paper](https://jose.theoj.org/papers/10.21105/jose.00075).
+- [FMRI COURSE](https://ucl.podia.com/designing-and-analysing-fmri-experiments): Learn how to design and analyze fMRI experiments in this free course.
+- [NEUROQUERY](https://neuroquery.org/): NeuroQuery is a tool for meta-analysis of neuroimaging studies, relating text queries to activations as well as associations between terms used together in neuroimaging publications. More info in the corresponding [paper](https://elifesciences.org/articles/53385). 
+- [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
+
+
 ### Inclusion
 - [COLS4ALL](https://github.com/mtennekes/cols4all): An R package "for selecting color palettes. 'Color for all' refers to [the authors'] mission that colors should be usable for not just people with normal color vision, but also for people with color vision deficiency". 
 - [EQUITY COMPASS](https://www.futurelearn.com/courses/equity-informal-stem-learning-using-the-equity-compass): A great free online course called "Equity in Informal STEM Learning: Using the Equity Compass" on how to be more inclusive.
@@ -145,15 +160,6 @@ Sorted alphabetically into sub-categories.
 ### Networking
 - [ACADEMICS ON MASTODON](https://github.com/nathanlesage/academics-on-mastodon): A list of various lists consisting of academics on Mastodon and general guidance for academic use.
 - [TWITTER FOR SCIENTISTS](https://t4scientists.com/): A handy guide on how to start off on Twitter if you're a scientist.
-
-### Neuroscience
-- [3D BRAIN](https://www.instructables.com/3D-print-your-own-brain/): Do you have an anatomical scan of your brain and access to a 3D-printer? Follow this easy tutorial to print your own brain.
-- [3D SLICER](https://slicer.org/): A free, open source software for visualization, processing, segmentation, registration, and analysis of medical, biomedical, and other 3D images and meshes; and planning and navigating image-guided procedures.
-- [DICOMTAGS](https://exiftool.org/TagNames/DICOM.html): Do you want to know where a specific information is saved in the DICOM file of your imaging data. Check out DICOM Tags.
-- [EDUCORTEX](https://paulscotti.github.io/educortex/): This handy educational, browser-based visualization tool allows you to enter any functional or anatomical term and visualize the parts of the brain that are most associated with that term. Check the [GitHub repository](https://github.com/PaulScotti/educortex) or corresponding [paper](https://jose.theoj.org/papers/10.21105/jose.00075).
-- [FMRI COURSE](https://ucl.podia.com/designing-and-analysing-fmri-experiments): Learn how to design and analyze fMRI experiments in this free course.
-- [NEUROQUERY](https://neuroquery.org/): NeuroQuery is a tool for meta-analysis of neuroimaging studies, relating text queries to activations as well as associations between terms used together in neuroimaging publications. More info in the corresponding [paper](https://elifesciences.org/articles/53385). 
-- [NEUROSYNTH](https://neurosynth.org/): NeuroSynth is for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data. You can search for word associations and papers with specific MNI coordinates.
 
 ### Online Presence
 - [WOWCHEMY WEBSITE](https://twitter.com/dsquintana/status/1310715433654382599?s=20): If you want to create your own website, but have no clue where to start, check out [Daniel Quintana](https://twitter.com/dsquintana)'s extremely easy tutorial! Also have a look at [my website](https://helenahartmann.com/) for an example.
@@ -223,7 +229,6 @@ Sorted alphabetically into sub-categories.
 - [CANVA](https://www.canva.com): Canva is amazing for creating content such as slides, figures and there are so many great (and free!) designs to choose from.
 - [COLOR ORACLE](https://colororacle.org/index.html): A piece of software that helps you tell whether your plot or slide is accessible to folk with different colour vision impairments.
 - [COLOR PICKER](https://imagecolorpicker.com/): Upload an image and pick the hex code of any color in the image.
-- [COVALENT](https://chempirical.com/covalent/): A free browser editor for chemical structures, reactions and mechanisms that exports SVG, PNG and PDF figures for papers, posters and slides. No account needed.
 - [FIGPAD](https://figpad.ai/): An AI workspace for creating scientific figures from prompts, sketches, or reference images, with editable SVG/PPTX export for papers and slides.
 - [FLATICON](https://www.flaticon.com/): Flaticon has a huge amount of free stickers and icons, ready to download and use.
 - [FONT AWESOME](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free): Font Awesome has loads of free icons to choose from to use in presentations, posters, etc.
