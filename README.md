@@ -60,6 +60,7 @@ Sorted alphabetically into sub-categories.
 - [YAP AUDIO TO TEXT](https://yapapp.cc/audio-to-text): Free in-browser transcription of interview and lecture recordings, with SRT/VTT subtitle export. The audio is processed on your own computer and never uploaded, which helps when participant recordings must stay private.
 
 ### Career
+- [AI PHD INTERNSHIPS 2027](https://github.com/cookllm/AI-PhD-Internships-2027): AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply links.
 - [EDU PATH HUB](https://edupathhub.online/): Nine free data-driven tools for college applicants and students — from college finder to citation generator.
 - [JOB INTERVIEW](https://twitter.com/birchlse/status/1491006458993209352?s=20&t=9Zfcge_IfN5hzMf7Dt9Pxw): Jonathan Birch gives some helpful tips on how to navigate tenure-track job talks.
 - [PHD COMPETENCE MODEL](https://phdcompetencemodel.nl/): This is "a self-assessment tool to help PhD candidates more efficiently direct their time towards improving skills areas that are most needed for their own personal career development."
