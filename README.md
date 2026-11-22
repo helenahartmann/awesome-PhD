@@ -54,6 +54,7 @@ Sorted alphabetically into sub-categories.
 
 ### Analysis
 - [DATAPASTA](https://github.com/MilesMcBain/datapasta): This R package is "about reducing resistance associated with copying and pasting data to and from R". Copy data from Excel and paste it into R as a dataframe or tibble. 
+- [GETYOUTUBETRANSCRIPT](https://getyoutubetranscript.com): Pulls the timestamped transcript of a YouTube lecture, conference talk or interview from its captions, with TXT/SRT/VTT export and translation. Useful for quoting talks and for collecting YouTube transcripts as qualitative data; a few transcripts a day are free without an account, and an API covers larger batches.
 - [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
 - [STATCHECK](https://www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
 - [WEB PLOT DIGITIZER](https://automeris.io/WebPlotDigitizer/): Helps you to reverse engineer data from visualizations by extracting the underlying numerical values.
