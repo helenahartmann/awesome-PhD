@@ -53,6 +53,7 @@ This repository is aimed to be a living, constantly developing resource where ev
 Sorted alphabetically into sub-categories.
 
 ### Analysis
+- [DATACHECK](https://datacheck.cc/en): Rule-driven verification platform for scientific spreadsheets and Source Data tables (56 versioned non-AI rules for duplicates, shifted sequences, fixed multiples/offsets, and statistical consistency with traceable source-cell evidence; closed-source web packs and offline Windows desktop edition with one-time pricing).
 - [DATAPASTA](https://github.com/MilesMcBain/datapasta): This R package is "about reducing resistance associated with copying and pasting data to and from R". Copy data from Excel and paste it into R as a dataframe or tibble. 
 - [METAFOR](https://metafor-project.org/doku.php): Use the metafor package in R for your meta-analyses.
 - [STATCHECK](https://www.statcheck.io): To check a PDF, DOCX or HTML file for errors in statistical reporting, upload it to Statcheck. Some journals even officially request this now (e.g., Psychological Science).
